@@ -1,0 +1,1 @@
+SELECT * FROM loans WHERE loan_status = 'Active'
