@@ -1,0 +1,12 @@
+customer_id,first_name,last_name,kyc_status,loan_type,loan_status
+CUST-10031,Lindsey,Jones,Failed,Auto,Active
+CUST-10140,Michael,Lopez,Verified,Auto,Active
+CUST-10299,Jeremy,Khan,Verified,Auto,Active
+CUST-10307,Duane,Jenkins,Pending,Auto,Active
+CUST-10446,Barry,Wagner,Verified,Auto,Active
+CUST-10154,Brian,Hall,Failed,Auto,Active
+CUST-10186,Christine,Allen,Verified,Auto,Active
+CUST-10074,Christina,Fields,Verified,Auto,Active
+CUST-10153,Catherine,Harrison,Verified,Auto,Active
+CUST-10331,Elizabeth,Fischer,Failed,Auto,Active
+CUST-10458,Ronald,Meyers,Failed,Auto,Active
