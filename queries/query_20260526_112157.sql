@@ -1,0 +1,1 @@
+SELECT account_id, customer_id FROM accountBalances WHERE is_active = TRUE;
