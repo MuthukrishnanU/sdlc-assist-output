@@ -1,0 +1,3 @@
+customer_id,loan_type,loan_status
+C123,Auto,Active
+C456,Home,Closed
