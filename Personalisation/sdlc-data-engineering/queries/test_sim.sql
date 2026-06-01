@@ -1,0 +1,1 @@
+SELECT accountId, balance FROM accountBalances LIMIT 5;
