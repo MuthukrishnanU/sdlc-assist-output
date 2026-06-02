@@ -1,0 +1,346 @@
+customer_id,first_name,last_name,merchant_name,loan_type,loan_status,principal_amount,credit_score,channel,transaction_type,credit_score_flag,principal_bucket,upi_inclined_flag
+CUST-11146,Katelyn,Caldwell,,Home,Active,100000,460,,,Risky,low bucket,Non UPI Inclined
+CUST-10531,Robin,Stone,Mcclain PLC,Home,Active,100000,437,NetBanking,Debit,Risky,low bucket,Non UPI Inclined
+CUST-10612,Alexander,Johnson,,Home,Active,100000,534,,,Risky,low bucket,Non UPI Inclined
+CUST-10351,Vanessa,Gaines,"Harris, Delacruz and Bolton",Home,Active,5000000,480,POS,Debit,Risky,medium bucket,Non UPI Inclined
+CUST-10351,Vanessa,Gaines,"Rice, Daniels and Jackson",Home,Active,5000000,480,UPI,Debit,Risky,medium bucket,Non UPI Inclined
+CUST-10126,Douglas,Lopez,Flores-Jenkins,Home,Active,100000,343,ATM,Debit,Risky,low bucket,Non UPI Inclined
+CUST-10859,Richard,Olson,,Home,Active,500000,402,,,Risky,low bucket,Non UPI Inclined
+CUST-11025,Larry,Lewis,"Love, Rice and Boyd",Home,Active,5000000,497,POS,Debit,Risky,medium bucket,Non UPI Inclined
+CUST-11025,Larry,Lewis,"Williams, Cameron and Holden",Home,Active,5000000,497,ATM,Credit,Risky,medium bucket,Non UPI Inclined
+CUST-10969,Geoffrey,Stone,,Home,Active,5000000,566,,,Risky,medium bucket,Non UPI Inclined
+CUST-11170,Kyle,Hutchinson,Adams and Sons,Home,Active,1500000,693,POS,Credit,Average,medium bucket,Non UPI Inclined
+CUST-10497,Nicole,Nichols,,Home,Active,500000,585,,,Risky,low bucket,Non UPI Inclined
+CUST-11348,Kayla,Sherman,"Adams, Reynolds and Glenn",Home,Active,100000,555,UPI,Credit,Risky,low bucket,Non UPI Inclined
+CUST-11348,Kayla,Sherman,Olson and Sons,Home,Active,100000,555,UPI,Credit,Risky,low bucket,Non UPI Inclined
+CUST-11348,Kayla,Sherman,Williams and Sons,Home,Active,100000,555,ATM,Debit,Risky,low bucket,Non UPI Inclined
+CUST-11348,Kayla,Sherman,"Rosario, Mejia and Grant",Home,Active,100000,555,UPI,Credit,Risky,low bucket,Non UPI Inclined
+CUST-11295,Adam,Flowers,Davis PLC,Home,Active,5000000,826,NetBanking,Credit,Good,medium bucket,Non UPI Inclined
+CUST-10964,Andrea,Terry,Smith-Gilbert,Home,Active,100000,685,POS,Debit,Average,low bucket,Non UPI Inclined
+CUST-10964,Andrea,Terry,Stephens-Ramsey,Home,Active,100000,685,NetBanking,Credit,Average,low bucket,Non UPI Inclined
+CUST-10225,Betty,Martin,,Home,Active,100000,313,,,Risky,low bucket,Non UPI Inclined
+CUST-10483,Barry,Hubbard,,Home,Active,1500000,552,,,Risky,medium bucket,Non UPI Inclined
+CUST-11280,Ralph,Salazar,"Olsen, Sanford and Rice",Home,Active,5000000,591,UPI,Debit,Risky,medium bucket,Non UPI Inclined
+CUST-10005,Joseph,Gallagher,,Home,Active,1500000,377,,,Risky,medium bucket,Non UPI Inclined
+CUST-10263,Lori,Hall,,Home,Active,500000,429,,,Risky,low bucket,Non UPI Inclined
+CUST-10313,Joshua,Wagner,Clark-Coleman,Home,Active,100000,633,NetBanking,Credit,Risky,low bucket,Non UPI Inclined
+CUST-11184,Kara,Ferguson,"Spears, White and Mendoza",Home,Active,1500000,488,NetBanking,Debit,Risky,medium bucket,Non UPI Inclined
+CUST-10033,Jennifer,Young,,Home,Active,500000,804,,,Good,low bucket,Non UPI Inclined
+CUST-11356,Tiffany,Campbell,Flores-Cook,Home,Active,5000000,598,POS,Debit,Risky,medium bucket,Non UPI Inclined
+CUST-11356,Tiffany,Campbell,Abbott-Leon,Home,Active,5000000,598,UPI,Credit,Risky,medium bucket,Non UPI Inclined
+CUST-11356,Tiffany,Campbell,Dalton-Garcia,Home,Active,5000000,598,NetBanking,Debit,Risky,medium bucket,Non UPI Inclined
+CUST-10936,Lisa,Barnes,Curtis-Sanchez,Home,Active,1500000,784,UPI,Debit,Good,medium bucket,Non UPI Inclined
+CUST-10908,Tanya,Spencer,"Taylor, Mccarthy and Ray",Home,Active,5000000,423,UPI,Debit,Risky,medium bucket,Non UPI Inclined
+CUST-10908,Tanya,Spencer,Williamson PLC,Home,Active,5000000,423,ATM,Debit,Risky,medium bucket,Non UPI Inclined
+CUST-10908,Tanya,Spencer,Gardner PLC,Home,Active,5000000,423,NetBanking,Credit,Risky,medium bucket,Non UPI Inclined
+CUST-11204,Timothy,Williams,"Harrell, Grimes and Armstrong",Home,Active,500000,523,NetBanking,Credit,Risky,low bucket,Non UPI Inclined
+CUST-11412,William,King,Figueroa Ltd,Home,Active,500000,754,POS,Debit,Good,low bucket,Non UPI Inclined
+CUST-11412,William,King,Salinas-Gardner,Home,Active,500000,754,POS,Debit,Good,low bucket,Non UPI Inclined
+CUST-10374,Johnathan,Briggs,,Home,Active,100000,313,,,Risky,low bucket,Non UPI Inclined
+CUST-11407,Timothy,Davis,,Home,Active,500000,327,,,Risky,low bucket,Non UPI Inclined
+CUST-11254,John,Byrd,"Martin, Swanson and Pollard",Home,Active,500000,508,UPI,Debit,Risky,low bucket,Non UPI Inclined
+CUST-11254,John,Byrd,Chandler-Robinson,Home,Active,500000,508,NetBanking,Credit,Risky,low bucket,Non UPI Inclined
+CUST-11254,John,Byrd,Diaz PLC,Home,Active,500000,508,POS,Credit,Risky,low bucket,Non UPI Inclined
+CUST-11291,Tina,Spencer,"Mcintosh, Bridges and Robinson",Home,Active,500000,351,POS,Debit,Risky,low bucket,Non UPI Inclined
+CUST-10260,Kelsey,Johnson,Phillips-Baker,Home,Active,5000000,408,UPI,Credit,Risky,medium bucket,Non UPI Inclined
+CUST-11098,Eduardo,Shelton,Collins-Crawford,Home,Active,1500000,621,UPI,Debit,Risky,medium bucket,Non UPI Inclined
+CUST-11098,Eduardo,Shelton,Johnson Ltd,Home,Active,1500000,621,NetBanking,Debit,Risky,medium bucket,Non UPI Inclined
+CUST-10654,Jake,Martin,Charles-Le,Home,Active,1500000,422,ATM,Debit,Risky,medium bucket,Non UPI Inclined
+CUST-10795,Heidi,Sparks,,Home,Active,1500000,679,,,Average,medium bucket,Non UPI Inclined
+CUST-10930,Stephanie,Boyd,Weber and Sons,Home,Active,500000,694,POS,Credit,Average,low bucket,Non UPI Inclined
+CUST-11060,Chad,Weeks,"Bennett, Hall and Jones",Home,Active,100000,479,UPI,Credit,Risky,low bucket,Non UPI Inclined
+CUST-11397,Leah,Joseph,Gross-Washington,Home,Active,500000,716,POS,Debit,Average,low bucket,Non UPI Inclined
+CUST-11397,Leah,Joseph,Paul-Spence,Home,Active,500000,716,POS,Debit,Average,low bucket,Non UPI Inclined
+CUST-10900,Rhonda,Ibarra,"Rodriguez, Moore and Cox",Home,Active,500000,785,POS,Debit,Good,low bucket,Non UPI Inclined
+CUST-10900,Rhonda,Ibarra,"Cooper, Sullivan and Morrison",Home,Active,500000,785,ATM,Debit,Good,low bucket,Non UPI Inclined
+CUST-10848,Susan,Shelton,Williams-Harrington,Home,Active,5000000,541,UPI,Credit,Risky,medium bucket,Non UPI Inclined
+CUST-10872,Erin,Stout,Brewer Inc,Home,Active,5000000,367,UPI,Debit,Risky,medium bucket,Non UPI Inclined
+CUST-10636,Laura,Andrews,"Peterson, Johnson and Allen",Home,Active,500000,378,NetBanking,Credit,Risky,low bucket,Non UPI Inclined
+CUST-11389,Matthew,Martinez,"Solis, Wilson and White",Home,Active,5000000,744,NetBanking,Credit,Average,medium bucket,Non UPI Inclined
+CUST-10269,Laura,Leach,Wolfe-Jackson,Home,Active,1500000,683,NetBanking,Credit,Average,medium bucket,Non UPI Inclined
+CUST-10092,Joshua,Anderson,"Ball, Atkinson and Stevenson",Home,Active,1500000,723,NetBanking,Debit,Average,medium bucket,Non UPI Inclined
+CUST-10905,Melissa,Gonzalez,"Hernandez, Ray and Gray",Home,Active,500000,789,UPI,Debit,Good,low bucket,Non UPI Inclined
+CUST-10273,Ryan,Wilkins,Pineda PLC,Home,Active,500000,641,ATM,Credit,Risky,low bucket,Non UPI Inclined
+CUST-10273,Ryan,Wilkins,Hernandez-Rice,Home,Active,500000,641,NetBanking,Debit,Risky,low bucket,Non UPI Inclined
+CUST-10273,Ryan,Wilkins,"Murillo, Edwards and Brady",Home,Active,500000,641,UPI,Debit,Risky,low bucket,Non UPI Inclined
+CUST-10962,James,Russell,Foley-Marquez,Home,Active,100000,594,POS,Credit,Risky,low bucket,Non UPI Inclined
+CUST-10263,Lori,Hall,,Home,Active,1500000,429,,,Risky,medium bucket,Non UPI Inclined
+CUST-11400,Stacey,Oconnor,"Small, Campbell and Robinson",Home,Active,100000,486,NetBanking,Credit,Risky,low bucket,Non UPI Inclined
+CUST-10427,Jessica,Rice,Davis Group,Home,Active,100000,496,NetBanking,Debit,Risky,low bucket,Non UPI Inclined
+CUST-10427,Jessica,Rice,"Williams, Rosales and Hudson",Home,Active,100000,496,POS,Debit,Risky,low bucket,Non UPI Inclined
+CUST-10427,Jessica,Rice,"Swanson, Smith and Blake",Home,Active,100000,496,NetBanking,Credit,Risky,low bucket,Non UPI Inclined
+CUST-10387,Mary,Johnson,,Home,Active,5000000,578,,,Risky,medium bucket,Non UPI Inclined
+CUST-10414,Travis,Pearson,Green and Sons,Home,Active,5000000,780,UPI,Credit,Good,medium bucket,Non UPI Inclined
+CUST-10414,Travis,Pearson,"King, Wilson and Hunter",Home,Active,5000000,780,POS,Debit,Good,medium bucket,Non UPI Inclined
+CUST-10414,Travis,Pearson,Conley and Sons,Home,Active,5000000,780,POS,Debit,Good,medium bucket,Non UPI Inclined
+CUST-10414,Travis,Pearson,Spencer-Vargas,Home,Active,5000000,780,NetBanking,Credit,Good,medium bucket,Non UPI Inclined
+CUST-10926,Daniel,Smith,Randolph LLC,Home,Active,5000000,849,NetBanking,Credit,Good,medium bucket,Non UPI Inclined
+CUST-10156,Cynthia,Douglas,,Home,Active,5000000,590,,,Risky,medium bucket,Non UPI Inclined
+CUST-10200,Lindsey,Jones,,Home,Active,500000,583,,,Risky,low bucket,Non UPI Inclined
+CUST-10449,Jennifer,Torres,,Home,Active,100000,451,,,Risky,low bucket,Non UPI Inclined
+CUST-10755,Nicole,Mcneil,,Home,Active,500000,346,,,Risky,low bucket,Non UPI Inclined
+CUST-10956,Debra,Jordan,,Home,Active,500000,838,,,Good,low bucket,Non UPI Inclined
+CUST-10132,Victoria,Lara,,Home,Active,100000,684,,,Average,low bucket,Non UPI Inclined
+CUST-11065,Zachary,Contreras,,Home,Active,500000,767,,,Good,low bucket,Non UPI Inclined
+CUST-10792,Jessica,Webster,"Brown, David and Holland",Home,Active,100000,429,UPI,Debit,Risky,low bucket,Non UPI Inclined
+CUST-10792,Jessica,Webster,Kline Group,Home,Active,100000,429,POS,Debit,Risky,low bucket,Non UPI Inclined
+CUST-11487,Justin,Pitts,,Home,Active,1500000,777,,,Good,medium bucket,Non UPI Inclined
+CUST-11425,Lisa,Harrison,,Home,Active,500000,461,,,Risky,low bucket,Non UPI Inclined
+CUST-11373,Chelsea,Rodriguez,,Home,Active,100000,469,,,Risky,low bucket,Non UPI Inclined
+CUST-10538,Joshua,Jefferson,Johnson-West,Home,Active,1500000,512,ATM,Debit,Risky,medium bucket,Non UPI Inclined
+CUST-10538,Joshua,Jefferson,"Summers, Barrett and Hicks",Home,Active,1500000,512,POS,Debit,Risky,medium bucket,Non UPI Inclined
+CUST-10538,Joshua,Jefferson,Edwards Group,Home,Active,1500000,512,NetBanking,Debit,Risky,medium bucket,Non UPI Inclined
+CUST-11172,Mark,Trevino,"Johnston, Hill and Coleman",Home,Active,5000000,410,ATM,Credit,Risky,medium bucket,Non UPI Inclined
+CUST-11068,Eric,Daniels,Morgan and Sons,Home,Active,500000,529,POS,Debit,Risky,low bucket,Non UPI Inclined
+CUST-10797,Megan,Gilbert,,Home,Active,100000,427,,,Risky,low bucket,Non UPI Inclined
+CUST-10805,David,Scott,Palmer and Sons,Home,Active,500000,703,ATM,Debit,Average,low bucket,Non UPI Inclined
+CUST-10805,David,Scott,Sherman Group,Home,Active,500000,703,UPI,Debit,Average,low bucket,Non UPI Inclined
+CUST-10333,John,Bryan,Anthony-Calderon,Home,Active,100000,695,UPI,Debit,Average,low bucket,Non UPI Inclined
+CUST-10333,John,Bryan,"Carter, Jensen and Graves",Home,Active,100000,695,NetBanking,Credit,Average,low bucket,Non UPI Inclined
+CUST-10333,John,Bryan,Jackson Inc,Home,Active,100000,695,POS,Debit,Average,low bucket,Non UPI Inclined
+CUST-10418,Joseph,Owens,,Home,Active,100000,534,,,Risky,low bucket,Non UPI Inclined
+CUST-11297,Amanda,Rivera,Cole Group,Home,Active,5000000,434,UPI,Debit,Risky,medium bucket,Non UPI Inclined
+CUST-11297,Amanda,Rivera,"Ingram, Reynolds and Griffith",Home,Active,5000000,434,POS,Credit,Risky,medium bucket,Non UPI Inclined
+CUST-10729,Rebecca,Brown,"Hoffman, Glenn and Moore",Home,Active,100000,744,NetBanking,Debit,Average,low bucket,Non UPI Inclined
+CUST-10563,Cameron,White,Brown-Ortiz,Home,Active,1500000,688,POS,Debit,Average,medium bucket,Non UPI Inclined
+CUST-11111,Rebecca,Bates,Taylor-Cook,Home,Active,5000000,438,POS,Debit,Risky,medium bucket,Non UPI Inclined
+CUST-11272,Samuel,Beasley,Webb-Smith,Home,Active,5000000,745,ATM,Debit,Average,medium bucket,Non UPI Inclined
+CUST-11272,Samuel,Beasley,"Villarreal, Pratt and Huffman",Home,Active,5000000,745,ATM,Debit,Average,medium bucket,Non UPI Inclined
+CUST-10837,Adrian,Robinson,,Home,Active,5000000,614,,,Risky,medium bucket,Non UPI Inclined
+CUST-11106,Bobby,Gonzalez,Jones-Miller,Home,Active,500000,385,ATM,Credit,Risky,low bucket,Non UPI Inclined
+CUST-10174,Amanda,Anderson,,Home,Active,100000,326,,,Risky,low bucket,Non UPI Inclined
+CUST-11221,Robin,Hampton,,Home,Active,5000000,647,,,Risky,medium bucket,Non UPI Inclined
+CUST-11048,Jessica,Combs,Donaldson Group,Home,Active,500000,330,UPI,Debit,Risky,low bucket,Non UPI Inclined
+CUST-10538,Joshua,Jefferson,Johnson-West,Home,Active,1500000,512,ATM,Debit,Risky,medium bucket,Non UPI Inclined
+CUST-10538,Joshua,Jefferson,"Summers, Barrett and Hicks",Home,Active,1500000,512,POS,Debit,Risky,medium bucket,Non UPI Inclined
+CUST-10538,Joshua,Jefferson,Edwards Group,Home,Active,1500000,512,NetBanking,Debit,Risky,medium bucket,Non UPI Inclined
+CUST-11370,Timothy,Noble,,Home,Active,500000,594,,,Risky,low bucket,Non UPI Inclined
+CUST-10438,Omar,Douglas,,Home,Active,500000,560,,,Risky,low bucket,Non UPI Inclined
+CUST-10256,Amy,Murphy,Mcdonald LLC,Home,Active,5000000,458,UPI,Credit,Risky,medium bucket,Non UPI Inclined
+CUST-10256,Amy,Murphy,Faulkner-Sanchez,Home,Active,5000000,458,POS,Debit,Risky,medium bucket,Non UPI Inclined
+CUST-10663,Jeffrey,Morris,Young Ltd,Home,Active,1500000,728,POS,Credit,Average,medium bucket,Non UPI Inclined
+CUST-10663,Jeffrey,Morris,Stephens Ltd,Home,Active,1500000,728,NetBanking,Debit,Average,medium bucket,Non UPI Inclined
+CUST-10360,Sara,Macdonald,"Lane, Smith and Brown",Home,Active,500000,455,ATM,Credit,Risky,low bucket,Non UPI Inclined
+CUST-10735,Emily,Hess,"Perkins, Delgado and Herman",Home,Active,5000000,633,NetBanking,Debit,Risky,medium bucket,Non UPI Inclined
+CUST-10748,Maurice,Hardy,Frost PLC,Home,Active,100000,437,ATM,Debit,Risky,low bucket,Non UPI Inclined
+CUST-10113,Tammy,Duke,,Home,Active,500000,364,,,Risky,low bucket,Non UPI Inclined
+CUST-11125,Jennifer,Cook,"Cruz, Smith and Ryan",Home,Active,5000000,803,UPI,Debit,Good,medium bucket,Non UPI Inclined
+CUST-10424,Jacqueline,Moran,,Home,Active,5000000,381,,,Risky,medium bucket,Non UPI Inclined
+CUST-10898,Henry,Sanders,,Home,Active,500000,726,,,Average,low bucket,Non UPI Inclined
+CUST-11127,Robert,Carlson,"Haney, Simmons and Wood",Home,Active,100000,496,ATM,Credit,Risky,low bucket,Non UPI Inclined
+CUST-10724,Tammy,Thomas,Dillon Ltd,Home,Active,5000000,515,ATM,Credit,Risky,medium bucket,Non UPI Inclined
+CUST-10700,Aaron,Hill,Miles-Sanchez,Home,Active,500000,443,POS,Debit,Risky,low bucket,Non UPI Inclined
+CUST-10008,Megan,Singh,"Miller, Gilbert and Olson",Home,Active,1500000,374,POS,Debit,Risky,medium bucket,Non UPI Inclined
+CUST-11264,Michael,Parker,,Home,Active,500000,848,,,Good,low bucket,Non UPI Inclined
+CUST-10934,Jason,Lopez,Morris-Wang,Home,Active,500000,696,POS,Credit,Average,low bucket,Non UPI Inclined
+CUST-10934,Jason,Lopez,Sandoval-Baker,Home,Active,500000,696,POS,Debit,Average,low bucket,Non UPI Inclined
+CUST-10775,Brooke,Young,"Lopez, Ramirez and Douglas",Home,Active,5000000,607,ATM,Debit,Risky,medium bucket,Non UPI Inclined
+CUST-10775,Brooke,Young,Jones-Hodges,Home,Active,5000000,607,NetBanking,Credit,Risky,medium bucket,Non UPI Inclined
+CUST-10537,Brenda,Patterson,Chen and Sons,Home,Active,500000,834,UPI,Credit,Good,low bucket,Non UPI Inclined
+CUST-10537,Brenda,Patterson,Morgan and Sons,Home,Active,500000,834,UPI,Debit,Good,low bucket,Non UPI Inclined
+CUST-10148,Amanda,Robinson,Thornton Ltd,Home,Active,1500000,829,UPI,Credit,Good,medium bucket,Non UPI Inclined
+CUST-10148,Amanda,Robinson,King-Ellison,Home,Active,1500000,829,ATM,Credit,Good,medium bucket,Non UPI Inclined
+CUST-11314,Alexandra,Chavez,,Home,Active,100000,404,,,Risky,low bucket,Non UPI Inclined
+CUST-10237,Melissa,Morgan,Valdez PLC,Home,Active,1500000,482,ATM,Credit,Risky,medium bucket,Non UPI Inclined
+CUST-10617,James,Moore,Williams-Murphy,Home,Active,5000000,762,UPI,Credit,Good,medium bucket,Non UPI Inclined
+CUST-10617,James,Moore,Newton PLC,Home,Active,5000000,762,POS,Debit,Good,medium bucket,Non UPI Inclined
+CUST-10400,Johnathan,Schmidt,"Johnson, Wilson and Evans",Home,Active,1500000,417,NetBanking,Debit,Risky,medium bucket,Non UPI Inclined
+CUST-10400,Johnathan,Schmidt,Davidson Ltd,Home,Active,1500000,417,NetBanking,Debit,Risky,medium bucket,Non UPI Inclined
+CUST-11375,Tracy,Barnett,"Perez, Matthews and Horton",Home,Active,1500000,777,ATM,Debit,Good,medium bucket,Non UPI Inclined
+CUST-11392,Samantha,Wilson,,Home,Active,1500000,732,,,Average,medium bucket,Non UPI Inclined
+CUST-11335,Jeffrey,Sanders,Reeves-Brown,Home,Active,1500000,844,UPI,Credit,Good,medium bucket,Non UPI Inclined
+CUST-10298,Jennifer,Roach,"Nguyen, Huff and Smith",Home,Active,5000000,674,POS,Debit,Average,medium bucket,Non UPI Inclined
+CUST-10923,Christopher,Martin,Pearson Inc,Home,Active,500000,423,UPI,Debit,Risky,low bucket,Non UPI Inclined
+CUST-11148,Dawn,Bradley,Mitchell-Glass,Home,Active,5000000,754,POS,Debit,Good,medium bucket,Non UPI Inclined
+CUST-11478,Selena,Schmitt,Mclaughlin-Davis,Home,Active,500000,463,POS,Credit,Risky,low bucket,Non UPI Inclined
+CUST-11241,Robert,Meyers,,Home,Active,1500000,846,,,Good,medium bucket,Non UPI Inclined
+CUST-10810,Sonia,Miller,Stevens Inc,Home,Active,100000,422,ATM,Credit,Risky,low bucket,Non UPI Inclined
+CUST-10810,Sonia,Miller,Walker PLC,Home,Active,100000,422,POS,Debit,Risky,low bucket,Non UPI Inclined
+CUST-10252,Lawrence,Delacruz,Moore Inc,Home,Active,5000000,725,NetBanking,Debit,Average,medium bucket,Non UPI Inclined
+CUST-10252,Lawrence,Delacruz,"Baker, Turner and Clark",Home,Active,5000000,725,ATM,Debit,Average,medium bucket,Non UPI Inclined
+CUST-10252,Lawrence,Delacruz,Thompson-Brooks,Home,Active,5000000,725,NetBanking,Credit,Average,medium bucket,Non UPI Inclined
+CUST-11194,Dawn,King,Good Group,Home,Active,100000,475,POS,Debit,Risky,low bucket,Non UPI Inclined
+CUST-11194,Dawn,King,Adams-Solis,Home,Active,100000,475,ATM,Debit,Risky,low bucket,Non UPI Inclined
+CUST-11093,Brenda,Clarke,,Home,Active,500000,341,,,Risky,low bucket,Non UPI Inclined
+CUST-10802,Stephen,Calderon,Scott-Vaughan,Home,Active,100000,595,POS,Debit,Risky,low bucket,Non UPI Inclined
+CUST-10802,Stephen,Calderon,Fernandez-Robinson,Home,Active,100000,595,POS,Debit,Risky,low bucket,Non UPI Inclined
+CUST-10228,Richard,Harrington,,Home,Active,5000000,778,,,Good,medium bucket,Non UPI Inclined
+CUST-11188,John,Dawson,Tran-Bruce,Home,Active,100000,300,NetBanking,Credit,Risky,low bucket,Non UPI Inclined
+CUST-10261,Mark,Gibbs,,Home,Active,100000,569,,,Risky,low bucket,Non UPI Inclined
+CUST-10829,Caitlin,Smith,"Mitchell, Parker and Rodriguez",Home,Active,100000,446,NetBanking,Debit,Risky,low bucket,Non UPI Inclined
+CUST-10829,Caitlin,Smith,Sullivan LLC,Home,Active,100000,446,POS,Credit,Risky,low bucket,Non UPI Inclined
+CUST-11302,Frank,Gilbert,,Home,Active,500000,816,,,Good,low bucket,Non UPI Inclined
+CUST-11450,Keith,Roberts,,Home,Active,500000,823,,,Good,low bucket,Non UPI Inclined
+CUST-11107,Faith,Gutierrez,,Home,Active,500000,706,,,Average,low bucket,Non UPI Inclined
+CUST-10991,James,Molina,,Home,Active,1500000,668,,,Average,medium bucket,Non UPI Inclined
+CUST-11204,Timothy,Williams,"Harrell, Grimes and Armstrong",Home,Active,5000000,523,NetBanking,Credit,Risky,medium bucket,Non UPI Inclined
+CUST-10062,Allen,Arroyo,"Fletcher, Ochoa and Nash",Home,Active,100000,429,NetBanking,Debit,Risky,low bucket,Non UPI Inclined
+CUST-10204,Christopher,Cantrell,"Ford, Solis and Booth",Home,Active,100000,461,NetBanking,Credit,Risky,low bucket,Non UPI Inclined
+CUST-11470,Mary,Hayes,Foley LLC,Home,Active,500000,664,UPI,Debit,Average,low bucket,Non UPI Inclined
+CUST-11470,Mary,Hayes,Ellis-Huffman,Home,Active,500000,664,ATM,Credit,Average,low bucket,Non UPI Inclined
+CUST-11470,Mary,Hayes,"Smith, Patel and Henderson",Home,Active,500000,664,ATM,Credit,Average,low bucket,Non UPI Inclined
+CUST-10837,Adrian,Robinson,,Home,Active,1500000,614,,,Risky,medium bucket,Non UPI Inclined
+CUST-11180,Joshua,Sims,Lee PLC,Home,Active,100000,680,ATM,Credit,Average,low bucket,Non UPI Inclined
+CUST-11180,Joshua,Sims,Taylor Group,Home,Active,100000,680,ATM,Debit,Average,low bucket,Non UPI Inclined
+CUST-10142,Michael,Montes,Carney-Carter,Home,Active,500000,641,NetBanking,Credit,Risky,low bucket,Non UPI Inclined
+CUST-11087,Wanda,Morgan,,Home,Active,1500000,710,,,Average,medium bucket,Non UPI Inclined
+CUST-10622,Marc,Morales,,Home,Active,5000000,554,,,Risky,medium bucket,Non UPI Inclined
+CUST-11093,Brenda,Clarke,,Home,Active,1500000,341,,,Risky,medium bucket,Non UPI Inclined
+CUST-11216,Richard,Simmons,Holland Ltd,Home,Active,5000000,650,UPI,Debit,Unknown,medium bucket,Non UPI Inclined
+CUST-11213,Edwin,Martinez,Wilson Group,Home,Active,100000,406,POS,Credit,Risky,low bucket,Non UPI Inclined
+CUST-10731,Karen,Moreno,,Home,Active,500000,628,,,Risky,low bucket,Non UPI Inclined
+CUST-11322,Renee,Ferguson,Gibson and Sons,Home,Active,100000,454,POS,Debit,Risky,low bucket,Non UPI Inclined
+CUST-11322,Renee,Ferguson,"Boone, Mullen and Holloway",Home,Active,100000,454,UPI,Credit,Risky,low bucket,Non UPI Inclined
+CUST-11322,Renee,Ferguson,Flores PLC,Home,Active,100000,454,ATM,Debit,Risky,low bucket,Non UPI Inclined
+CUST-10819,Rebecca,Day,,Home,Active,100000,304,,,Risky,low bucket,Non UPI Inclined
+CUST-11047,Nicole,Russell,Arnold Group,Home,Active,100000,605,ATM,Debit,Risky,low bucket,Non UPI Inclined
+CUST-10954,Linda,Davis,,Home,Active,1500000,349,,,Risky,medium bucket,Non UPI Inclined
+CUST-10259,Eric,Donaldson,Potter-Little,Home,Active,500000,478,NetBanking,Credit,Risky,low bucket,Non UPI Inclined
+CUST-10259,Eric,Donaldson,Lewis PLC,Home,Active,500000,478,NetBanking,Debit,Risky,low bucket,Non UPI Inclined
+CUST-10259,Eric,Donaldson,Burns-Fisher,Home,Active,500000,478,ATM,Credit,Risky,low bucket,Non UPI Inclined
+CUST-10259,Eric,Donaldson,Payne-Williams,Home,Active,500000,478,ATM,Credit,Risky,low bucket,Non UPI Inclined
+CUST-11488,Sara,Garcia,,Home,Active,500000,781,,,Good,low bucket,Non UPI Inclined
+CUST-10199,Marcus,Smith,"Bush, Crawford and Frazier",Home,Active,5000000,734,UPI,Debit,Average,medium bucket,Non UPI Inclined
+CUST-10199,Marcus,Smith,"Nielsen, Morgan and Oliver",Home,Active,5000000,734,UPI,Debit,Average,medium bucket,Non UPI Inclined
+CUST-10199,Marcus,Smith,"Jenkins, Jones and Jones",Home,Active,5000000,734,UPI,Debit,Average,medium bucket,Non UPI Inclined
+CUST-10839,Stephanie,Roman,,Home,Active,500000,847,,,Good,low bucket,Non UPI Inclined
+CUST-10320,Amy,Herman,Larson-Harris,Home,Active,1500000,393,ATM,Debit,Risky,medium bucket,Non UPI Inclined
+CUST-10708,Kelsey,Pham,,Home,Active,100000,357,,,Risky,low bucket,Non UPI Inclined
+CUST-10287,Frank,Jordan,Johnson-Harris,Home,Active,500000,422,NetBanking,Debit,Risky,low bucket,Non UPI Inclined
+CUST-10287,Frank,Jordan,"Wells, Mcmahon and Peterson",Home,Active,500000,422,POS,Debit,Risky,low bucket,Non UPI Inclined
+CUST-10580,Kristy,Golden,"Robinson, Bailey and Long",Home,Active,500000,653,ATM,Debit,Average,low bucket,Non UPI Inclined
+CUST-10580,Kristy,Golden,Martin-Hall,Home,Active,500000,653,POS,Debit,Average,low bucket,Non UPI Inclined
+CUST-10580,Kristy,Golden,Bond-Baker,Home,Active,500000,653,ATM,Debit,Average,low bucket,Non UPI Inclined
+CUST-10580,Kristy,Golden,Johnson Ltd,Home,Active,500000,653,POS,Debit,Average,low bucket,Non UPI Inclined
+CUST-10222,Jeffrey,Owens,Hernandez Group,Home,Active,100000,412,POS,Debit,Risky,low bucket,Non UPI Inclined
+CUST-10222,Jeffrey,Owens,Fitzgerald-Parsons,Home,Active,100000,412,NetBanking,Credit,Risky,low bucket,Non UPI Inclined
+CUST-10383,Derek,Lucas,,Home,Active,100000,479,,,Risky,low bucket,Non UPI Inclined
+CUST-10543,Ricky,Santiago,"Oconnor, Wright and Phillips",Home,Active,500000,393,ATM,Credit,Risky,low bucket,Non UPI Inclined
+CUST-10543,Ricky,Santiago,Pratt-Lee,Home,Active,500000,393,NetBanking,Debit,Risky,low bucket,Non UPI Inclined
+CUST-10383,Derek,Lucas,,Home,Active,1500000,479,,,Risky,medium bucket,Non UPI Inclined
+CUST-10944,Patricia,Jones,,Home,Active,5000000,484,,,Risky,medium bucket,Non UPI Inclined
+CUST-10370,Alan,Adams,"Nguyen, Jackson and Berry",Home,Active,500000,731,POS,Debit,Average,low bucket,Non UPI Inclined
+CUST-11434,Toni,Graves,,Home,Active,1500000,462,,,Risky,medium bucket,Non UPI Inclined
+CUST-11350,Chase,Brooks,Ross-Lopez,Home,Active,100000,836,NetBanking,Debit,Good,low bucket,Non UPI Inclined
+CUST-10897,Bethany,Barnes,,Home,Active,1500000,480,,,Risky,medium bucket,Non UPI Inclined
+CUST-10668,Justin,Newman,"Hill, Douglas and Mejia",Home,Active,500000,496,UPI,Debit,Risky,low bucket,Non UPI Inclined
+CUST-11325,Luis,Fischer,"Butler, Williams and Brown",Home,Active,500000,421,POS,Debit,Risky,low bucket,Non UPI Inclined
+CUST-11152,Omar,Evans,Fowler Group,Home,Active,500000,410,UPI,Credit,Risky,low bucket,Non UPI Inclined
+CUST-10605,Catherine,Rodriguez,Snyder-Estrada,Home,Active,5000000,664,UPI,Debit,Average,medium bucket,Non UPI Inclined
+CUST-10239,Heather,White,,Home,Active,5000000,367,,,Risky,medium bucket,Non UPI Inclined
+CUST-10832,Bryan,Jimenez,Velez-Gomez,Home,Active,1500000,703,ATM,Credit,Average,medium bucket,Non UPI Inclined
+CUST-10832,Bryan,Jimenez,Weber-Cobb,Home,Active,1500000,703,NetBanking,Credit,Average,medium bucket,Non UPI Inclined
+CUST-10832,Bryan,Jimenez,Christensen-Perez,Home,Active,1500000,703,ATM,Debit,Average,medium bucket,Non UPI Inclined
+CUST-10832,Bryan,Jimenez,Stewart LLC,Home,Active,1500000,703,NetBanking,Debit,Average,medium bucket,Non UPI Inclined
+CUST-11258,Angela,Miller,Gamble-Williams,Home,Active,500000,612,ATM,Debit,Risky,low bucket,Non UPI Inclined
+CUST-10291,Nicole,Mcconnell,White PLC,Home,Active,100000,722,ATM,Credit,Average,low bucket,Non UPI Inclined
+CUST-10589,Brittany,Gonzalez,,Home,Active,1500000,612,,,Risky,medium bucket,Non UPI Inclined
+CUST-11388,Andrea,Perez,Rojas-Scott,Home,Active,100000,733,NetBanking,Debit,Average,low bucket,Non UPI Inclined
+CUST-10757,Mary,Bennett,"Parker, Nash and Berger",Home,Active,5000000,829,ATM,Credit,Good,medium bucket,Non UPI Inclined
+CUST-11048,Jessica,Combs,Donaldson Group,Home,Active,100000,330,UPI,Debit,Risky,low bucket,Non UPI Inclined
+CUST-10600,Michelle,Hodges,,Home,Active,100000,770,,,Good,low bucket,Non UPI Inclined
+CUST-11394,Christina,Graham,Clark-Gonzalez,Home,Active,100000,599,ATM,Credit,Risky,low bucket,Non UPI Inclined
+CUST-10834,Brad,Friedman,Oliver Ltd,Home,Active,100000,745,ATM,Debit,Average,low bucket,Non UPI Inclined
+CUST-11115,Juan,Morgan,Aguirre-Ryan,Home,Active,100000,821,POS,Debit,Good,low bucket,Non UPI Inclined
+CUST-11115,Juan,Morgan,"Jenkins, Stephenson and Edwards",Home,Active,100000,821,NetBanking,Debit,Good,low bucket,Non UPI Inclined
+CUST-11145,Wendy,Lopez,"Spence, Mckenzie and Crane",Home,Active,5000000,758,NetBanking,Debit,Good,medium bucket,Non UPI Inclined
+CUST-11382,Teresa,Gutierrez,"Flores, Johnson and Koch",Home,Active,100000,646,NetBanking,Debit,Risky,low bucket,Non UPI Inclined
+CUST-11102,Connie,Bailey,,Home,Active,500000,397,,,Risky,low bucket,Non UPI Inclined
+CUST-11285,Kyle,Reed,Thompson Group,Home,Active,500000,559,ATM,Credit,Risky,low bucket,Non UPI Inclined
+CUST-10619,Michael,Dean,,Home,Active,1500000,320,,,Risky,medium bucket,Non UPI Inclined
+CUST-11061,Monique,Vasquez,"George, Johnson and Miller",Home,Active,100000,771,POS,Debit,Good,low bucket,Non UPI Inclined
+CUST-10398,James,Larson,,Home,Active,500000,571,,,Risky,low bucket,Non UPI Inclined
+CUST-10660,Evelyn,Peterson,,Home,Active,1500000,664,,,Average,medium bucket,Non UPI Inclined
+CUST-10237,Melissa,Morgan,Valdez PLC,Home,Active,5000000,482,ATM,Credit,Risky,medium bucket,Non UPI Inclined
+CUST-10594,Susan,Poole,Davis-Adams,Home,Active,5000000,648,UPI,Credit,Risky,medium bucket,Non UPI Inclined
+CUST-10594,Susan,Poole,Castillo-Porter,Home,Active,5000000,648,NetBanking,Debit,Risky,medium bucket,Non UPI Inclined
+CUST-11352,Amy,Whitehead,Owens-Webb,Home,Active,1500000,761,UPI,Debit,Good,medium bucket,Non UPI Inclined
+CUST-11352,Amy,Whitehead,Russell-Weaver,Home,Active,1500000,761,NetBanking,Credit,Good,medium bucket,Non UPI Inclined
+CUST-10525,Matthew,Wood,"Williams, Scott and Johnson",Home,Active,1500000,385,NetBanking,Credit,Risky,medium bucket,Non UPI Inclined
+CUST-10525,Matthew,Wood,Solomon-White,Home,Active,1500000,385,UPI,Debit,Risky,medium bucket,Non UPI Inclined
+CUST-10525,Matthew,Wood,Guerra-Harris,Home,Active,1500000,385,UPI,Debit,Risky,medium bucket,Non UPI Inclined
+CUST-11283,Thomas,Ramirez,Vaughan Group,Home,Active,100000,420,UPI,Debit,Risky,low bucket,Non UPI Inclined
+CUST-10490,Brian,Morgan,,Home,Active,100000,368,,,Risky,low bucket,Non UPI Inclined
+CUST-11226,Mark,Kirby,Lee PLC,Home,Active,1500000,665,POS,Debit,Average,medium bucket,Non UPI Inclined
+CUST-11226,Mark,Kirby,"Flores, Peterson and Hatfield",Home,Active,1500000,665,POS,Debit,Average,medium bucket,Non UPI Inclined
+CUST-11226,Mark,Kirby,Ortiz Group,Home,Active,1500000,665,POS,Credit,Average,medium bucket,Non UPI Inclined
+CUST-10360,Sara,Macdonald,"Lane, Smith and Brown",Home,Active,1500000,455,ATM,Credit,Risky,medium bucket,Non UPI Inclined
+CUST-10105,Mark,Eaton,"Miller, Bush and Ryan",Home,Active,5000000,369,POS,Debit,Risky,medium bucket,Non UPI Inclined
+CUST-10105,Mark,Eaton,Young-Adams,Home,Active,5000000,369,POS,Debit,Risky,medium bucket,Non UPI Inclined
+CUST-11429,Kristin,Davis,Freeman Ltd,Home,Active,1500000,731,NetBanking,Debit,Average,medium bucket,Non UPI Inclined
+CUST-11429,Kristin,Davis,Garrett-Bentley,Home,Active,1500000,731,UPI,Credit,Average,medium bucket,Non UPI Inclined
+CUST-10204,Christopher,Cantrell,"Ford, Solis and Booth",Home,Active,1500000,461,NetBanking,Credit,Risky,medium bucket,Non UPI Inclined
+CUST-10139,Jay,Morrison,,Home,Active,5000000,683,,,Average,medium bucket,Non UPI Inclined
+CUST-10635,John,Campbell,"Ball, Nunez and Lee",Home,Active,1500000,720,NetBanking,Debit,Average,medium bucket,Non UPI Inclined
+CUST-10635,John,Campbell,"Warren, Wu and King",Home,Active,1500000,720,ATM,Debit,Average,medium bucket,Non UPI Inclined
+CUST-10635,John,Campbell,"Rios, Garcia and Garrison",Home,Active,1500000,720,UPI,Debit,Average,medium bucket,Non UPI Inclined
+CUST-10766,Timothy,Caldwell,Stewart-Baker,Home,Active,5000000,420,UPI,Debit,Risky,medium bucket,Non UPI Inclined
+CUST-10231,Jeremiah,Lopez,"Roberts, Fernandez and Hernandez",Home,Active,500000,638,NetBanking,Debit,Risky,low bucket,Non UPI Inclined
+CUST-11343,Melvin,Pace,"Cooper, Garcia and Collins",Home,Active,500000,440,UPI,Debit,Risky,low bucket,Non UPI Inclined
+CUST-10676,Joshua,Freeman,Alvarado-Mckay,Home,Active,100000,560,UPI,Credit,Risky,low bucket,Non UPI Inclined
+CUST-11043,Jose,Wilson,Knight LLC,Home,Active,100000,714,UPI,Debit,Average,low bucket,Non UPI Inclined
+CUST-11031,Karen,Wagner,Griffin Ltd,Home,Active,1500000,581,UPI,Credit,Risky,medium bucket,Non UPI Inclined
+CUST-10521,Kevin,Campbell,Tyler Inc,Home,Active,100000,529,ATM,Credit,Risky,low bucket,Non UPI Inclined
+CUST-10315,Anthony,Oconnell,"Harris, Rodriguez and Reed",Home,Active,500000,504,POS,Debit,Risky,low bucket,Non UPI Inclined
+CUST-10315,Anthony,Oconnell,"Guerrero, Ward and Hunt",Home,Active,500000,504,POS,Debit,Risky,low bucket,Non UPI Inclined
+CUST-10410,Jade,Trevino,,Home,Active,5000000,349,,,Risky,medium bucket,Non UPI Inclined
+CUST-10656,Bryan,Morrison,"Morgan, Mendez and Hamilton",Home,Active,500000,630,POS,Debit,Risky,low bucket,Non UPI Inclined
+CUST-10441,Steven,Nunez,Lang and Sons,Home,Active,500000,646,NetBanking,Credit,Risky,low bucket,Non UPI Inclined
+CUST-11409,Natalie,Harris,"Morgan, Reese and Johnson",Home,Active,1500000,576,ATM,Credit,Risky,medium bucket,Non UPI Inclined
+CUST-10074,Christina,Fields,,Home,Active,1500000,773,,,Good,medium bucket,Non UPI Inclined
+CUST-10099,Misty,Jackson,,Home,Active,1500000,395,,,Risky,medium bucket,Non UPI Inclined
+CUST-11151,Marissa,Patterson,,Home,Active,5000000,358,,,Risky,medium bucket,Non UPI Inclined
+CUST-10082,Erin,Lopez,"Rodriguez, Jones and Garcia",Home,Active,100000,572,UPI,Debit,Risky,low bucket,Non UPI Inclined
+CUST-10082,Erin,Lopez,Sparks Inc,Home,Active,100000,572,NetBanking,Debit,Risky,low bucket,Non UPI Inclined
+CUST-10082,Erin,Lopez,"Blake, Webster and Owens",Home,Active,100000,572,UPI,Debit,Risky,low bucket,Non UPI Inclined
+CUST-11221,Robin,Hampton,,Home,Active,100000,647,,,Risky,low bucket,Non UPI Inclined
+CUST-11125,Jennifer,Cook,"Cruz, Smith and Ryan",Home,Active,5000000,803,UPI,Debit,Good,medium bucket,Non UPI Inclined
+CUST-10680,Nicole,Klein,Oliver-Anderson,Home,Active,100000,785,POS,Credit,Good,low bucket,Non UPI Inclined
+CUST-10974,Barry,Ruiz,,Home,Active,500000,630,,,Risky,low bucket,Non UPI Inclined
+CUST-10075,Joanne,Greene,"Snow, Hale and Mcdonald",Home,Active,5000000,790,NetBanking,Debit,Good,medium bucket,Non UPI Inclined
+CUST-11336,Tracey,Lewis,Terrell-Melendez,Home,Active,500000,496,ATM,Debit,Risky,low bucket,Non UPI Inclined
+CUST-10150,Amanda,Mccullough,"Thomas, Merritt and Stokes",Home,Active,1500000,825,ATM,Debit,Good,medium bucket,Non UPI Inclined
+CUST-10412,Jennifer,Hayes,"Thompson, Riddle and Hodge",Home,Active,1500000,451,UPI,Debit,Risky,medium bucket,Non UPI Inclined
+CUST-11417,Johnathan,Thomas,Barry-Briggs,Home,Active,5000000,686,UPI,Debit,Average,medium bucket,Non UPI Inclined
+CUST-10158,Andrea,Martinez,"Williams, Greene and Roach",Home,Active,1500000,421,POS,Debit,Risky,medium bucket,Non UPI Inclined
+CUST-11348,Kayla,Sherman,"Adams, Reynolds and Glenn",Home,Active,100000,555,UPI,Credit,Risky,low bucket,Non UPI Inclined
+CUST-11348,Kayla,Sherman,Olson and Sons,Home,Active,100000,555,UPI,Credit,Risky,low bucket,Non UPI Inclined
+CUST-11348,Kayla,Sherman,Williams and Sons,Home,Active,100000,555,ATM,Debit,Risky,low bucket,Non UPI Inclined
+CUST-11348,Kayla,Sherman,"Rosario, Mejia and Grant",Home,Active,100000,555,UPI,Credit,Risky,low bucket,Non UPI Inclined
+CUST-10663,Jeffrey,Morris,Young Ltd,Home,Active,1500000,728,POS,Credit,Average,medium bucket,Non UPI Inclined
+CUST-10663,Jeffrey,Morris,Stephens Ltd,Home,Active,1500000,728,NetBanking,Debit,Average,medium bucket,Non UPI Inclined
+CUST-10631,April,Lee,"Lewis, Hurley and Adams",Home,Active,100000,678,UPI,Debit,Average,low bucket,Non UPI Inclined
+CUST-10243,James,Zimmerman,,Home,Active,500000,355,,,Risky,low bucket,Non UPI Inclined
+CUST-11026,Daniel,Santana,,Home,Active,500000,813,,,Good,low bucket,Non UPI Inclined
+CUST-10622,Marc,Morales,,Home,Active,1500000,554,,,Risky,medium bucket,Non UPI Inclined
+CUST-10936,Lisa,Barnes,Curtis-Sanchez,Home,Active,5000000,784,UPI,Debit,Good,medium bucket,Non UPI Inclined
+CUST-11031,Karen,Wagner,Griffin Ltd,Home,Active,5000000,581,UPI,Credit,Risky,medium bucket,Non UPI Inclined
+CUST-11499,David,Williams,,Home,Active,5000000,645,,,Risky,medium bucket,Non UPI Inclined
+CUST-11300,Rebecca,Taylor,,Home,Active,100000,840,,,Good,low bucket,Non UPI Inclined
+CUST-11214,John,Edwards,Farmer-Davis,Home,Active,1500000,810,POS,Debit,Good,medium bucket,Non UPI Inclined
+CUST-11232,Brian,Rowe,,Home,Active,1500000,707,,,Average,medium bucket,Non UPI Inclined
+CUST-10670,Amy,Norman,,Home,Active,1500000,775,,,Good,medium bucket,Non UPI Inclined
+CUST-11196,April,Taylor,,Home,Active,500000,692,,,Average,low bucket,Non UPI Inclined
+CUST-11459,Melissa,Garcia,Hill PLC,Home,Active,5000000,435,POS,Debit,Risky,medium bucket,Non UPI Inclined
+CUST-10818,Brandi,Fitzgerald,"Mcdonald, Reynolds and Martin",Home,Active,500000,492,POS,Debit,Risky,low bucket,Non UPI Inclined
+CUST-10017,Elizabeth,Vasquez,Snyder LLC,Home,Active,500000,612,UPI,Debit,Risky,low bucket,Non UPI Inclined
+CUST-10021,Renee,Lamb,"Harris, Hartman and Kelley",Home,Active,1500000,481,POS,Debit,Risky,medium bucket,Non UPI Inclined
+CUST-10389,Miguel,Anderson,,Home,Active,500000,848,,,Good,low bucket,Non UPI Inclined
+CUST-10543,Ricky,Santiago,"Oconnor, Wright and Phillips",Home,Active,1500000,393,ATM,Credit,Risky,medium bucket,Non UPI Inclined
+CUST-10543,Ricky,Santiago,Pratt-Lee,Home,Active,1500000,393,NetBanking,Debit,Risky,medium bucket,Non UPI Inclined
+CUST-10270,Charles,Maldonado,,Home,Active,100000,483,,,Risky,low bucket,Non UPI Inclined
+CUST-10404,Adam,Carlson,Aguilar-Kline,Home,Active,1500000,384,ATM,Credit,Risky,medium bucket,Non UPI Inclined
+CUST-10404,Adam,Carlson,Prince Group,Home,Active,1500000,384,NetBanking,Debit,Risky,medium bucket,Non UPI Inclined
+CUST-10592,Victor,Johnson,,Home,Active,5000000,693,,,Average,medium bucket,Non UPI Inclined
+CUST-11306,Tiffany,Williams,Herrera Group,Home,Active,500000,812,POS,Debit,Good,low bucket,Non UPI Inclined
+CUST-10575,Robert,Hughes,Benitez and Sons,Home,Active,100000,422,UPI,Debit,Risky,low bucket,Non UPI Inclined
+CUST-10108,Teresa,Pitts,Lopez Ltd,Home,Active,1500000,650,NetBanking,Debit,Unknown,medium bucket,Non UPI Inclined
+CUST-10108,Teresa,Pitts,Miles Group,Home,Active,1500000,650,POS,Debit,Unknown,medium bucket,Non UPI Inclined
+CUST-10129,Michelle,Barrera,Nichols-Lozano,Home,Active,1500000,603,POS,Credit,Risky,medium bucket,Non UPI Inclined
+CUST-10129,Michelle,Barrera,Estrada and Sons,Home,Active,1500000,603,POS,Debit,Risky,medium bucket,Non UPI Inclined
+CUST-10129,Michelle,Barrera,Hernandez Group,Home,Active,1500000,603,POS,Credit,Risky,medium bucket,Non UPI Inclined
+CUST-10861,Jessica,Simpson,,Home,Active,100000,402,,,Risky,low bucket,Non UPI Inclined
+CUST-11445,Glen,Schultz,Martin and Sons,Home,Active,5000000,751,UPI,Credit,Good,medium bucket,Non UPI Inclined
+CUST-11445,Glen,Schultz,Lee-Johnson,Home,Active,5000000,751,ATM,Debit,Good,medium bucket,Non UPI Inclined
+CUST-11445,Glen,Schultz,Schaefer-Woodward,Home,Active,5000000,751,UPI,Credit,Good,medium bucket,Non UPI Inclined
+CUST-10346,Nancy,Parker,"Leonard, Smith and Hayden",Home,Active,500000,432,NetBanking,Credit,Risky,low bucket,Non UPI Inclined
