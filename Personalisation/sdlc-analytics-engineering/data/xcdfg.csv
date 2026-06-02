@@ -1,0 +1,346 @@
+customer_id,first_name,last_name,credit_score,credit_score_flag,loan_type,loan_status,principal_bucket,transaction_type,merchant_name,channel,upi_inclined
+CUST-11146,Katelyn,Caldwell,460,Risky,Home,Active,low,,,,No
+CUST-10531,Robin,Stone,437,Risky,Home,Active,low,Debit,Mcclain PLC,NetBanking,No
+CUST-10612,Alexander,Johnson,534,Risky,Home,Active,low,,,,No
+CUST-10351,Vanessa,Gaines,480,Risky,Home,Active,medium,Debit,"Harris, Delacruz and Bolton",POS,No
+CUST-10351,Vanessa,Gaines,480,Risky,Home,Active,medium,Debit,"Rice, Daniels and Jackson",UPI,No
+CUST-10126,Douglas,Lopez,343,Risky,Home,Active,low,Debit,Flores-Jenkins,ATM,No
+CUST-10859,Richard,Olson,402,Risky,Home,Active,low,,,,No
+CUST-11025,Larry,Lewis,497,Risky,Home,Active,medium,Debit,"Love, Rice and Boyd",POS,No
+CUST-11025,Larry,Lewis,497,Risky,Home,Active,medium,Credit,"Williams, Cameron and Holden",ATM,No
+CUST-10969,Geoffrey,Stone,566,Risky,Home,Active,medium,,,,No
+CUST-11170,Kyle,Hutchinson,693,Average,Home,Active,medium,Credit,Adams and Sons,POS,No
+CUST-10497,Nicole,Nichols,585,Risky,Home,Active,low,,,,No
+CUST-11348,Kayla,Sherman,555,Risky,Home,Active,low,Credit,"Adams, Reynolds and Glenn",UPI,No
+CUST-11348,Kayla,Sherman,555,Risky,Home,Active,low,Credit,Olson and Sons,UPI,No
+CUST-11348,Kayla,Sherman,555,Risky,Home,Active,low,Debit,Williams and Sons,ATM,No
+CUST-11348,Kayla,Sherman,555,Risky,Home,Active,low,Credit,"Rosario, Mejia and Grant",UPI,No
+CUST-11295,Adam,Flowers,826,Good,Home,Active,medium,Credit,Davis PLC,NetBanking,No
+CUST-10964,Andrea,Terry,685,Average,Home,Active,low,Debit,Smith-Gilbert,POS,No
+CUST-10964,Andrea,Terry,685,Average,Home,Active,low,Credit,Stephens-Ramsey,NetBanking,No
+CUST-10225,Betty,Martin,313,Risky,Home,Active,low,,,,No
+CUST-10483,Barry,Hubbard,552,Risky,Home,Active,medium,,,,No
+CUST-11280,Ralph,Salazar,591,Risky,Home,Active,medium,Debit,"Olsen, Sanford and Rice",UPI,No
+CUST-10005,Joseph,Gallagher,377,Risky,Home,Active,medium,,,,No
+CUST-10263,Lori,Hall,429,Risky,Home,Active,low,,,,No
+CUST-10313,Joshua,Wagner,633,Risky,Home,Active,low,Credit,Clark-Coleman,NetBanking,No
+CUST-11184,Kara,Ferguson,488,Risky,Home,Active,medium,Debit,"Spears, White and Mendoza",NetBanking,No
+CUST-10033,Jennifer,Young,804,Good,Home,Active,low,,,,No
+CUST-11356,Tiffany,Campbell,598,Risky,Home,Active,medium,Debit,Flores-Cook,POS,No
+CUST-11356,Tiffany,Campbell,598,Risky,Home,Active,medium,Credit,Abbott-Leon,UPI,No
+CUST-11356,Tiffany,Campbell,598,Risky,Home,Active,medium,Debit,Dalton-Garcia,NetBanking,No
+CUST-10936,Lisa,Barnes,784,Good,Home,Active,medium,Debit,Curtis-Sanchez,UPI,No
+CUST-10908,Tanya,Spencer,423,Risky,Home,Active,medium,Debit,"Taylor, Mccarthy and Ray",UPI,No
+CUST-10908,Tanya,Spencer,423,Risky,Home,Active,medium,Debit,Williamson PLC,ATM,No
+CUST-10908,Tanya,Spencer,423,Risky,Home,Active,medium,Credit,Gardner PLC,NetBanking,No
+CUST-11204,Timothy,Williams,523,Risky,Home,Active,low,Credit,"Harrell, Grimes and Armstrong",NetBanking,No
+CUST-11412,William,King,754,Good,Home,Active,low,Debit,Figueroa Ltd,POS,No
+CUST-11412,William,King,754,Good,Home,Active,low,Debit,Salinas-Gardner,POS,No
+CUST-10374,Johnathan,Briggs,313,Risky,Home,Active,low,,,,No
+CUST-11407,Timothy,Davis,327,Risky,Home,Active,low,,,,No
+CUST-11254,John,Byrd,508,Risky,Home,Active,low,Debit,"Martin, Swanson and Pollard",UPI,No
+CUST-11254,John,Byrd,508,Risky,Home,Active,low,Credit,Chandler-Robinson,NetBanking,No
+CUST-11254,John,Byrd,508,Risky,Home,Active,low,Credit,Diaz PLC,POS,No
+CUST-11291,Tina,Spencer,351,Risky,Home,Active,low,Debit,"Mcintosh, Bridges and Robinson",POS,No
+CUST-10260,Kelsey,Johnson,408,Risky,Home,Active,medium,Credit,Phillips-Baker,UPI,No
+CUST-11098,Eduardo,Shelton,621,Risky,Home,Active,medium,Debit,Collins-Crawford,UPI,No
+CUST-11098,Eduardo,Shelton,621,Risky,Home,Active,medium,Debit,Johnson Ltd,NetBanking,No
+CUST-10654,Jake,Martin,422,Risky,Home,Active,medium,Debit,Charles-Le,ATM,No
+CUST-10795,Heidi,Sparks,679,Average,Home,Active,medium,,,,No
+CUST-10930,Stephanie,Boyd,694,Average,Home,Active,low,Credit,Weber and Sons,POS,No
+CUST-11060,Chad,Weeks,479,Risky,Home,Active,low,Credit,"Bennett, Hall and Jones",UPI,No
+CUST-11397,Leah,Joseph,716,Average,Home,Active,low,Debit,Gross-Washington,POS,No
+CUST-11397,Leah,Joseph,716,Average,Home,Active,low,Debit,Paul-Spence,POS,No
+CUST-10900,Rhonda,Ibarra,785,Good,Home,Active,low,Debit,"Rodriguez, Moore and Cox",POS,No
+CUST-10900,Rhonda,Ibarra,785,Good,Home,Active,low,Debit,"Cooper, Sullivan and Morrison",ATM,No
+CUST-10848,Susan,Shelton,541,Risky,Home,Active,medium,Credit,Williams-Harrington,UPI,No
+CUST-10872,Erin,Stout,367,Risky,Home,Active,medium,Debit,Brewer Inc,UPI,No
+CUST-10636,Laura,Andrews,378,Risky,Home,Active,low,Credit,"Peterson, Johnson and Allen",NetBanking,No
+CUST-11389,Matthew,Martinez,744,Average,Home,Active,medium,Credit,"Solis, Wilson and White",NetBanking,No
+CUST-10269,Laura,Leach,683,Average,Home,Active,medium,Credit,Wolfe-Jackson,NetBanking,No
+CUST-10092,Joshua,Anderson,723,Average,Home,Active,medium,Debit,"Ball, Atkinson and Stevenson",NetBanking,No
+CUST-10905,Melissa,Gonzalez,789,Good,Home,Active,low,Debit,"Hernandez, Ray and Gray",UPI,No
+CUST-10273,Ryan,Wilkins,641,Risky,Home,Active,low,Credit,Pineda PLC,ATM,No
+CUST-10273,Ryan,Wilkins,641,Risky,Home,Active,low,Debit,Hernandez-Rice,NetBanking,No
+CUST-10273,Ryan,Wilkins,641,Risky,Home,Active,low,Debit,"Murillo, Edwards and Brady",UPI,No
+CUST-10962,James,Russell,594,Risky,Home,Active,low,Credit,Foley-Marquez,POS,No
+CUST-10263,Lori,Hall,429,Risky,Home,Active,medium,,,,No
+CUST-11400,Stacey,Oconnor,486,Risky,Home,Active,low,Credit,"Small, Campbell and Robinson",NetBanking,No
+CUST-10427,Jessica,Rice,496,Risky,Home,Active,low,Debit,Davis Group,NetBanking,No
+CUST-10427,Jessica,Rice,496,Risky,Home,Active,low,Debit,"Williams, Rosales and Hudson",POS,No
+CUST-10427,Jessica,Rice,496,Risky,Home,Active,low,Credit,"Swanson, Smith and Blake",NetBanking,No
+CUST-10387,Mary,Johnson,578,Risky,Home,Active,medium,,,,No
+CUST-10414,Travis,Pearson,780,Good,Home,Active,medium,Credit,Green and Sons,UPI,No
+CUST-10414,Travis,Pearson,780,Good,Home,Active,medium,Debit,"King, Wilson and Hunter",POS,No
+CUST-10414,Travis,Pearson,780,Good,Home,Active,medium,Debit,Conley and Sons,POS,No
+CUST-10414,Travis,Pearson,780,Good,Home,Active,medium,Credit,Spencer-Vargas,NetBanking,No
+CUST-10926,Daniel,Smith,849,Good,Home,Active,medium,Credit,Randolph LLC,NetBanking,No
+CUST-10156,Cynthia,Douglas,590,Risky,Home,Active,medium,,,,No
+CUST-10200,Lindsey,Jones,583,Risky,Home,Active,low,,,,No
+CUST-10449,Jennifer,Torres,451,Risky,Home,Active,low,,,,No
+CUST-10755,Nicole,Mcneil,346,Risky,Home,Active,low,,,,No
+CUST-10956,Debra,Jordan,838,Good,Home,Active,low,,,,No
+CUST-10132,Victoria,Lara,684,Average,Home,Active,low,,,,No
+CUST-11065,Zachary,Contreras,767,Good,Home,Active,low,,,,No
+CUST-10792,Jessica,Webster,429,Risky,Home,Active,low,Debit,"Brown, David and Holland",UPI,No
+CUST-10792,Jessica,Webster,429,Risky,Home,Active,low,Debit,Kline Group,POS,No
+CUST-11487,Justin,Pitts,777,Good,Home,Active,medium,,,,No
+CUST-11425,Lisa,Harrison,461,Risky,Home,Active,low,,,,No
+CUST-11373,Chelsea,Rodriguez,469,Risky,Home,Active,low,,,,No
+CUST-10538,Joshua,Jefferson,512,Risky,Home,Active,medium,Debit,Johnson-West,ATM,No
+CUST-10538,Joshua,Jefferson,512,Risky,Home,Active,medium,Debit,"Summers, Barrett and Hicks",POS,No
+CUST-10538,Joshua,Jefferson,512,Risky,Home,Active,medium,Debit,Edwards Group,NetBanking,No
+CUST-11172,Mark,Trevino,410,Risky,Home,Active,medium,Credit,"Johnston, Hill and Coleman",ATM,No
+CUST-11068,Eric,Daniels,529,Risky,Home,Active,low,Debit,Morgan and Sons,POS,No
+CUST-10797,Megan,Gilbert,427,Risky,Home,Active,low,,,,No
+CUST-10805,David,Scott,703,Average,Home,Active,low,Debit,Palmer and Sons,ATM,No
+CUST-10805,David,Scott,703,Average,Home,Active,low,Debit,Sherman Group,UPI,No
+CUST-10333,John,Bryan,695,Average,Home,Active,low,Debit,Anthony-Calderon,UPI,No
+CUST-10333,John,Bryan,695,Average,Home,Active,low,Credit,"Carter, Jensen and Graves",NetBanking,No
+CUST-10333,John,Bryan,695,Average,Home,Active,low,Debit,Jackson Inc,POS,No
+CUST-10418,Joseph,Owens,534,Risky,Home,Active,low,,,,No
+CUST-11297,Amanda,Rivera,434,Risky,Home,Active,medium,Debit,Cole Group,UPI,No
+CUST-11297,Amanda,Rivera,434,Risky,Home,Active,medium,Credit,"Ingram, Reynolds and Griffith",POS,No
+CUST-10729,Rebecca,Brown,744,Average,Home,Active,low,Debit,"Hoffman, Glenn and Moore",NetBanking,No
+CUST-10563,Cameron,White,688,Average,Home,Active,medium,Debit,Brown-Ortiz,POS,No
+CUST-11111,Rebecca,Bates,438,Risky,Home,Active,medium,Debit,Taylor-Cook,POS,No
+CUST-11272,Samuel,Beasley,745,Average,Home,Active,medium,Debit,Webb-Smith,ATM,No
+CUST-11272,Samuel,Beasley,745,Average,Home,Active,medium,Debit,"Villarreal, Pratt and Huffman",ATM,No
+CUST-10837,Adrian,Robinson,614,Risky,Home,Active,medium,,,,No
+CUST-11106,Bobby,Gonzalez,385,Risky,Home,Active,low,Credit,Jones-Miller,ATM,No
+CUST-10174,Amanda,Anderson,326,Risky,Home,Active,low,,,,No
+CUST-11221,Robin,Hampton,647,Risky,Home,Active,medium,,,,No
+CUST-11048,Jessica,Combs,330,Risky,Home,Active,low,Debit,Donaldson Group,UPI,No
+CUST-10538,Joshua,Jefferson,512,Risky,Home,Active,medium,Debit,Johnson-West,ATM,No
+CUST-10538,Joshua,Jefferson,512,Risky,Home,Active,medium,Debit,"Summers, Barrett and Hicks",POS,No
+CUST-10538,Joshua,Jefferson,512,Risky,Home,Active,medium,Debit,Edwards Group,NetBanking,No
+CUST-11370,Timothy,Noble,594,Risky,Home,Active,low,,,,No
+CUST-10438,Omar,Douglas,560,Risky,Home,Active,low,,,,No
+CUST-10256,Amy,Murphy,458,Risky,Home,Active,medium,Credit,Mcdonald LLC,UPI,No
+CUST-10256,Amy,Murphy,458,Risky,Home,Active,medium,Debit,Faulkner-Sanchez,POS,No
+CUST-10663,Jeffrey,Morris,728,Average,Home,Active,medium,Credit,Young Ltd,POS,No
+CUST-10663,Jeffrey,Morris,728,Average,Home,Active,medium,Debit,Stephens Ltd,NetBanking,No
+CUST-10360,Sara,Macdonald,455,Risky,Home,Active,low,Credit,"Lane, Smith and Brown",ATM,No
+CUST-10735,Emily,Hess,633,Risky,Home,Active,medium,Debit,"Perkins, Delgado and Herman",NetBanking,No
+CUST-10748,Maurice,Hardy,437,Risky,Home,Active,low,Debit,Frost PLC,ATM,No
+CUST-10113,Tammy,Duke,364,Risky,Home,Active,low,,,,No
+CUST-11125,Jennifer,Cook,803,Good,Home,Active,medium,Debit,"Cruz, Smith and Ryan",UPI,No
+CUST-10424,Jacqueline,Moran,381,Risky,Home,Active,medium,,,,No
+CUST-10898,Henry,Sanders,726,Average,Home,Active,low,,,,No
+CUST-11127,Robert,Carlson,496,Risky,Home,Active,low,Credit,"Haney, Simmons and Wood",ATM,No
+CUST-10724,Tammy,Thomas,515,Risky,Home,Active,medium,Credit,Dillon Ltd,ATM,No
+CUST-10700,Aaron,Hill,443,Risky,Home,Active,low,Debit,Miles-Sanchez,POS,No
+CUST-10008,Megan,Singh,374,Risky,Home,Active,medium,Debit,"Miller, Gilbert and Olson",POS,No
+CUST-11264,Michael,Parker,848,Good,Home,Active,low,,,,No
+CUST-10934,Jason,Lopez,696,Average,Home,Active,low,Credit,Morris-Wang,POS,No
+CUST-10934,Jason,Lopez,696,Average,Home,Active,low,Debit,Sandoval-Baker,POS,No
+CUST-10775,Brooke,Young,607,Risky,Home,Active,medium,Debit,"Lopez, Ramirez and Douglas",ATM,No
+CUST-10775,Brooke,Young,607,Risky,Home,Active,medium,Credit,Jones-Hodges,NetBanking,No
+CUST-10537,Brenda,Patterson,834,Good,Home,Active,low,Credit,Chen and Sons,UPI,No
+CUST-10537,Brenda,Patterson,834,Good,Home,Active,low,Debit,Morgan and Sons,UPI,No
+CUST-10148,Amanda,Robinson,829,Good,Home,Active,medium,Credit,Thornton Ltd,UPI,No
+CUST-10148,Amanda,Robinson,829,Good,Home,Active,medium,Credit,King-Ellison,ATM,No
+CUST-11314,Alexandra,Chavez,404,Risky,Home,Active,low,,,,No
+CUST-10237,Melissa,Morgan,482,Risky,Home,Active,medium,Credit,Valdez PLC,ATM,No
+CUST-10617,James,Moore,762,Good,Home,Active,medium,Credit,Williams-Murphy,UPI,No
+CUST-10617,James,Moore,762,Good,Home,Active,medium,Debit,Newton PLC,POS,No
+CUST-10400,Johnathan,Schmidt,417,Risky,Home,Active,medium,Debit,"Johnson, Wilson and Evans",NetBanking,No
+CUST-10400,Johnathan,Schmidt,417,Risky,Home,Active,medium,Debit,Davidson Ltd,NetBanking,No
+CUST-11375,Tracy,Barnett,777,Good,Home,Active,medium,Debit,"Perez, Matthews and Horton",ATM,No
+CUST-11392,Samantha,Wilson,732,Average,Home,Active,medium,,,,No
+CUST-11335,Jeffrey,Sanders,844,Good,Home,Active,medium,Credit,Reeves-Brown,UPI,No
+CUST-10298,Jennifer,Roach,674,Average,Home,Active,medium,Debit,"Nguyen, Huff and Smith",POS,No
+CUST-10923,Christopher,Martin,423,Risky,Home,Active,low,Debit,Pearson Inc,UPI,No
+CUST-11148,Dawn,Bradley,754,Good,Home,Active,medium,Debit,Mitchell-Glass,POS,No
+CUST-11478,Selena,Schmitt,463,Risky,Home,Active,low,Credit,Mclaughlin-Davis,POS,No
+CUST-11241,Robert,Meyers,846,Good,Home,Active,medium,,,,No
+CUST-10810,Sonia,Miller,422,Risky,Home,Active,low,Credit,Stevens Inc,ATM,No
+CUST-10810,Sonia,Miller,422,Risky,Home,Active,low,Debit,Walker PLC,POS,No
+CUST-10252,Lawrence,Delacruz,725,Average,Home,Active,medium,Debit,Moore Inc,NetBanking,No
+CUST-10252,Lawrence,Delacruz,725,Average,Home,Active,medium,Debit,"Baker, Turner and Clark",ATM,No
+CUST-10252,Lawrence,Delacruz,725,Average,Home,Active,medium,Credit,Thompson-Brooks,NetBanking,No
+CUST-11194,Dawn,King,475,Risky,Home,Active,low,Debit,Good Group,POS,No
+CUST-11194,Dawn,King,475,Risky,Home,Active,low,Debit,Adams-Solis,ATM,No
+CUST-11093,Brenda,Clarke,341,Risky,Home,Active,low,,,,No
+CUST-10802,Stephen,Calderon,595,Risky,Home,Active,low,Debit,Scott-Vaughan,POS,No
+CUST-10802,Stephen,Calderon,595,Risky,Home,Active,low,Debit,Fernandez-Robinson,POS,No
+CUST-10228,Richard,Harrington,778,Good,Home,Active,medium,,,,No
+CUST-11188,John,Dawson,300,Risky,Home,Active,low,Credit,Tran-Bruce,NetBanking,No
+CUST-10261,Mark,Gibbs,569,Risky,Home,Active,low,,,,No
+CUST-10829,Caitlin,Smith,446,Risky,Home,Active,low,Debit,"Mitchell, Parker and Rodriguez",NetBanking,No
+CUST-10829,Caitlin,Smith,446,Risky,Home,Active,low,Credit,Sullivan LLC,POS,No
+CUST-11302,Frank,Gilbert,816,Good,Home,Active,low,,,,No
+CUST-11450,Keith,Roberts,823,Good,Home,Active,low,,,,No
+CUST-11107,Faith,Gutierrez,706,Average,Home,Active,low,,,,No
+CUST-10991,James,Molina,668,Average,Home,Active,medium,,,,No
+CUST-11204,Timothy,Williams,523,Risky,Home,Active,medium,Credit,"Harrell, Grimes and Armstrong",NetBanking,No
+CUST-10062,Allen,Arroyo,429,Risky,Home,Active,low,Debit,"Fletcher, Ochoa and Nash",NetBanking,No
+CUST-10204,Christopher,Cantrell,461,Risky,Home,Active,low,Credit,"Ford, Solis and Booth",NetBanking,No
+CUST-11470,Mary,Hayes,664,Average,Home,Active,low,Debit,Foley LLC,UPI,No
+CUST-11470,Mary,Hayes,664,Average,Home,Active,low,Credit,Ellis-Huffman,ATM,No
+CUST-11470,Mary,Hayes,664,Average,Home,Active,low,Credit,"Smith, Patel and Henderson",ATM,No
+CUST-10837,Adrian,Robinson,614,Risky,Home,Active,medium,,,,No
+CUST-11180,Joshua,Sims,680,Average,Home,Active,low,Credit,Lee PLC,ATM,No
+CUST-11180,Joshua,Sims,680,Average,Home,Active,low,Debit,Taylor Group,ATM,No
+CUST-10142,Michael,Montes,641,Risky,Home,Active,low,Credit,Carney-Carter,NetBanking,No
+CUST-11087,Wanda,Morgan,710,Average,Home,Active,medium,,,,No
+CUST-10622,Marc,Morales,554,Risky,Home,Active,medium,,,,No
+CUST-11093,Brenda,Clarke,341,Risky,Home,Active,medium,,,,No
+CUST-11216,Richard,Simmons,650,Risky,Home,Active,medium,Debit,Holland Ltd,UPI,No
+CUST-11213,Edwin,Martinez,406,Risky,Home,Active,low,Credit,Wilson Group,POS,No
+CUST-10731,Karen,Moreno,628,Risky,Home,Active,low,,,,No
+CUST-11322,Renee,Ferguson,454,Risky,Home,Active,low,Debit,Gibson and Sons,POS,No
+CUST-11322,Renee,Ferguson,454,Risky,Home,Active,low,Credit,"Boone, Mullen and Holloway",UPI,No
+CUST-11322,Renee,Ferguson,454,Risky,Home,Active,low,Debit,Flores PLC,ATM,No
+CUST-10819,Rebecca,Day,304,Risky,Home,Active,low,,,,No
+CUST-11047,Nicole,Russell,605,Risky,Home,Active,low,Debit,Arnold Group,ATM,No
+CUST-10954,Linda,Davis,349,Risky,Home,Active,medium,,,,No
+CUST-10259,Eric,Donaldson,478,Risky,Home,Active,low,Credit,Potter-Little,NetBanking,No
+CUST-10259,Eric,Donaldson,478,Risky,Home,Active,low,Debit,Lewis PLC,NetBanking,No
+CUST-10259,Eric,Donaldson,478,Risky,Home,Active,low,Credit,Burns-Fisher,ATM,No
+CUST-10259,Eric,Donaldson,478,Risky,Home,Active,low,Credit,Payne-Williams,ATM,No
+CUST-11488,Sara,Garcia,781,Good,Home,Active,low,,,,No
+CUST-10199,Marcus,Smith,734,Average,Home,Active,medium,Debit,"Bush, Crawford and Frazier",UPI,No
+CUST-10199,Marcus,Smith,734,Average,Home,Active,medium,Debit,"Nielsen, Morgan and Oliver",UPI,No
+CUST-10199,Marcus,Smith,734,Average,Home,Active,medium,Debit,"Jenkins, Jones and Jones",UPI,No
+CUST-10839,Stephanie,Roman,847,Good,Home,Active,low,,,,No
+CUST-10320,Amy,Herman,393,Risky,Home,Active,medium,Debit,Larson-Harris,ATM,No
+CUST-10708,Kelsey,Pham,357,Risky,Home,Active,low,,,,No
+CUST-10287,Frank,Jordan,422,Risky,Home,Active,low,Debit,Johnson-Harris,NetBanking,No
+CUST-10287,Frank,Jordan,422,Risky,Home,Active,low,Debit,"Wells, Mcmahon and Peterson",POS,No
+CUST-10580,Kristy,Golden,653,Average,Home,Active,low,Debit,"Robinson, Bailey and Long",ATM,No
+CUST-10580,Kristy,Golden,653,Average,Home,Active,low,Debit,Martin-Hall,POS,No
+CUST-10580,Kristy,Golden,653,Average,Home,Active,low,Debit,Bond-Baker,ATM,No
+CUST-10580,Kristy,Golden,653,Average,Home,Active,low,Debit,Johnson Ltd,POS,No
+CUST-10222,Jeffrey,Owens,412,Risky,Home,Active,low,Debit,Hernandez Group,POS,No
+CUST-10222,Jeffrey,Owens,412,Risky,Home,Active,low,Credit,Fitzgerald-Parsons,NetBanking,No
+CUST-10383,Derek,Lucas,479,Risky,Home,Active,low,,,,No
+CUST-10543,Ricky,Santiago,393,Risky,Home,Active,low,Credit,"Oconnor, Wright and Phillips",ATM,No
+CUST-10543,Ricky,Santiago,393,Risky,Home,Active,low,Debit,Pratt-Lee,NetBanking,No
+CUST-10383,Derek,Lucas,479,Risky,Home,Active,medium,,,,No
+CUST-10944,Patricia,Jones,484,Risky,Home,Active,medium,,,,No
+CUST-10370,Alan,Adams,731,Average,Home,Active,low,Debit,"Nguyen, Jackson and Berry",POS,No
+CUST-11434,Toni,Graves,462,Risky,Home,Active,medium,,,,No
+CUST-11350,Chase,Brooks,836,Good,Home,Active,low,Debit,Ross-Lopez,NetBanking,No
+CUST-10897,Bethany,Barnes,480,Risky,Home,Active,medium,,,,No
+CUST-10668,Justin,Newman,496,Risky,Home,Active,low,Debit,"Hill, Douglas and Mejia",UPI,No
+CUST-11325,Luis,Fischer,421,Risky,Home,Active,low,Debit,"Butler, Williams and Brown",POS,No
+CUST-11152,Omar,Evans,410,Risky,Home,Active,low,Credit,Fowler Group,UPI,No
+CUST-10605,Catherine,Rodriguez,664,Average,Home,Active,medium,Debit,Snyder-Estrada,UPI,No
+CUST-10239,Heather,White,367,Risky,Home,Active,medium,,,,No
+CUST-10832,Bryan,Jimenez,703,Average,Home,Active,medium,Credit,Velez-Gomez,ATM,No
+CUST-10832,Bryan,Jimenez,703,Average,Home,Active,medium,Credit,Weber-Cobb,NetBanking,No
+CUST-10832,Bryan,Jimenez,703,Average,Home,Active,medium,Debit,Christensen-Perez,ATM,No
+CUST-10832,Bryan,Jimenez,703,Average,Home,Active,medium,Debit,Stewart LLC,NetBanking,No
+CUST-11258,Angela,Miller,612,Risky,Home,Active,low,Debit,Gamble-Williams,ATM,No
+CUST-10291,Nicole,Mcconnell,722,Average,Home,Active,low,Credit,White PLC,ATM,No
+CUST-10589,Brittany,Gonzalez,612,Risky,Home,Active,medium,,,,No
+CUST-11388,Andrea,Perez,733,Average,Home,Active,low,Debit,Rojas-Scott,NetBanking,No
+CUST-10757,Mary,Bennett,829,Good,Home,Active,medium,Credit,"Parker, Nash and Berger",ATM,No
+CUST-11048,Jessica,Combs,330,Risky,Home,Active,low,Debit,Donaldson Group,UPI,No
+CUST-10600,Michelle,Hodges,770,Good,Home,Active,low,,,,No
+CUST-11394,Christina,Graham,599,Risky,Home,Active,low,Credit,Clark-Gonzalez,ATM,No
+CUST-10834,Brad,Friedman,745,Average,Home,Active,low,Debit,Oliver Ltd,ATM,No
+CUST-11115,Juan,Morgan,821,Good,Home,Active,low,Debit,Aguirre-Ryan,POS,No
+CUST-11115,Juan,Morgan,821,Good,Home,Active,low,Debit,"Jenkins, Stephenson and Edwards",NetBanking,No
+CUST-11145,Wendy,Lopez,758,Good,Home,Active,medium,Debit,"Spence, Mckenzie and Crane",NetBanking,No
+CUST-11382,Teresa,Gutierrez,646,Risky,Home,Active,low,Debit,"Flores, Johnson and Koch",NetBanking,No
+CUST-11102,Connie,Bailey,397,Risky,Home,Active,low,,,,No
+CUST-11285,Kyle,Reed,559,Risky,Home,Active,low,Credit,Thompson Group,ATM,No
+CUST-10619,Michael,Dean,320,Risky,Home,Active,medium,,,,No
+CUST-11061,Monique,Vasquez,771,Good,Home,Active,low,Debit,"George, Johnson and Miller",POS,No
+CUST-10398,James,Larson,571,Risky,Home,Active,low,,,,No
+CUST-10660,Evelyn,Peterson,664,Average,Home,Active,medium,,,,No
+CUST-10237,Melissa,Morgan,482,Risky,Home,Active,medium,Credit,Valdez PLC,ATM,No
+CUST-10594,Susan,Poole,648,Risky,Home,Active,medium,Credit,Davis-Adams,UPI,No
+CUST-10594,Susan,Poole,648,Risky,Home,Active,medium,Debit,Castillo-Porter,NetBanking,No
+CUST-11352,Amy,Whitehead,761,Good,Home,Active,medium,Debit,Owens-Webb,UPI,No
+CUST-11352,Amy,Whitehead,761,Good,Home,Active,medium,Credit,Russell-Weaver,NetBanking,No
+CUST-10525,Matthew,Wood,385,Risky,Home,Active,medium,Credit,"Williams, Scott and Johnson",NetBanking,No
+CUST-10525,Matthew,Wood,385,Risky,Home,Active,medium,Debit,Solomon-White,UPI,No
+CUST-10525,Matthew,Wood,385,Risky,Home,Active,medium,Debit,Guerra-Harris,UPI,No
+CUST-11283,Thomas,Ramirez,420,Risky,Home,Active,low,Debit,Vaughan Group,UPI,No
+CUST-10490,Brian,Morgan,368,Risky,Home,Active,low,,,,No
+CUST-11226,Mark,Kirby,665,Average,Home,Active,medium,Debit,Lee PLC,POS,No
+CUST-11226,Mark,Kirby,665,Average,Home,Active,medium,Debit,"Flores, Peterson and Hatfield",POS,No
+CUST-11226,Mark,Kirby,665,Average,Home,Active,medium,Credit,Ortiz Group,POS,No
+CUST-10360,Sara,Macdonald,455,Risky,Home,Active,medium,Credit,"Lane, Smith and Brown",ATM,No
+CUST-10105,Mark,Eaton,369,Risky,Home,Active,medium,Debit,"Miller, Bush and Ryan",POS,No
+CUST-10105,Mark,Eaton,369,Risky,Home,Active,medium,Debit,Young-Adams,POS,No
+CUST-11429,Kristin,Davis,731,Average,Home,Active,medium,Debit,Freeman Ltd,NetBanking,No
+CUST-11429,Kristin,Davis,731,Average,Home,Active,medium,Credit,Garrett-Bentley,UPI,No
+CUST-10204,Christopher,Cantrell,461,Risky,Home,Active,medium,Credit,"Ford, Solis and Booth",NetBanking,No
+CUST-10139,Jay,Morrison,683,Average,Home,Active,medium,,,,No
+CUST-10635,John,Campbell,720,Average,Home,Active,medium,Debit,"Ball, Nunez and Lee",NetBanking,No
+CUST-10635,John,Campbell,720,Average,Home,Active,medium,Debit,"Warren, Wu and King",ATM,No
+CUST-10635,John,Campbell,720,Average,Home,Active,medium,Debit,"Rios, Garcia and Garrison",UPI,No
+CUST-10766,Timothy,Caldwell,420,Risky,Home,Active,medium,Debit,Stewart-Baker,UPI,No
+CUST-10231,Jeremiah,Lopez,638,Risky,Home,Active,low,Debit,"Roberts, Fernandez and Hernandez",NetBanking,No
+CUST-11343,Melvin,Pace,440,Risky,Home,Active,low,Debit,"Cooper, Garcia and Collins",UPI,No
+CUST-10676,Joshua,Freeman,560,Risky,Home,Active,low,Credit,Alvarado-Mckay,UPI,No
+CUST-11043,Jose,Wilson,714,Average,Home,Active,low,Debit,Knight LLC,UPI,No
+CUST-11031,Karen,Wagner,581,Risky,Home,Active,medium,Credit,Griffin Ltd,UPI,No
+CUST-10521,Kevin,Campbell,529,Risky,Home,Active,low,Credit,Tyler Inc,ATM,No
+CUST-10315,Anthony,Oconnell,504,Risky,Home,Active,low,Debit,"Harris, Rodriguez and Reed",POS,No
+CUST-10315,Anthony,Oconnell,504,Risky,Home,Active,low,Debit,"Guerrero, Ward and Hunt",POS,No
+CUST-10410,Jade,Trevino,349,Risky,Home,Active,medium,,,,No
+CUST-10656,Bryan,Morrison,630,Risky,Home,Active,low,Debit,"Morgan, Mendez and Hamilton",POS,No
+CUST-10441,Steven,Nunez,646,Risky,Home,Active,low,Credit,Lang and Sons,NetBanking,No
+CUST-11409,Natalie,Harris,576,Risky,Home,Active,medium,Credit,"Morgan, Reese and Johnson",ATM,No
+CUST-10074,Christina,Fields,773,Good,Home,Active,medium,,,,No
+CUST-10099,Misty,Jackson,395,Risky,Home,Active,medium,,,,No
+CUST-11151,Marissa,Patterson,358,Risky,Home,Active,medium,,,,No
+CUST-10082,Erin,Lopez,572,Risky,Home,Active,low,Debit,"Rodriguez, Jones and Garcia",UPI,No
+CUST-10082,Erin,Lopez,572,Risky,Home,Active,low,Debit,Sparks Inc,NetBanking,No
+CUST-10082,Erin,Lopez,572,Risky,Home,Active,low,Debit,"Blake, Webster and Owens",UPI,No
+CUST-11221,Robin,Hampton,647,Risky,Home,Active,low,,,,No
+CUST-11125,Jennifer,Cook,803,Good,Home,Active,medium,Debit,"Cruz, Smith and Ryan",UPI,No
+CUST-10680,Nicole,Klein,785,Good,Home,Active,low,Credit,Oliver-Anderson,POS,No
+CUST-10974,Barry,Ruiz,630,Risky,Home,Active,low,,,,No
+CUST-10075,Joanne,Greene,790,Good,Home,Active,medium,Debit,"Snow, Hale and Mcdonald",NetBanking,No
+CUST-11336,Tracey,Lewis,496,Risky,Home,Active,low,Debit,Terrell-Melendez,ATM,No
+CUST-10150,Amanda,Mccullough,825,Good,Home,Active,medium,Debit,"Thomas, Merritt and Stokes",ATM,No
+CUST-10412,Jennifer,Hayes,451,Risky,Home,Active,medium,Debit,"Thompson, Riddle and Hodge",UPI,No
+CUST-11417,Johnathan,Thomas,686,Average,Home,Active,medium,Debit,Barry-Briggs,UPI,No
+CUST-10158,Andrea,Martinez,421,Risky,Home,Active,medium,Debit,"Williams, Greene and Roach",POS,No
+CUST-11348,Kayla,Sherman,555,Risky,Home,Active,low,Credit,"Adams, Reynolds and Glenn",UPI,No
+CUST-11348,Kayla,Sherman,555,Risky,Home,Active,low,Credit,Olson and Sons,UPI,No
+CUST-11348,Kayla,Sherman,555,Risky,Home,Active,low,Debit,Williams and Sons,ATM,No
+CUST-11348,Kayla,Sherman,555,Risky,Home,Active,low,Credit,"Rosario, Mejia and Grant",UPI,No
+CUST-10663,Jeffrey,Morris,728,Average,Home,Active,medium,Credit,Young Ltd,POS,No
+CUST-10663,Jeffrey,Morris,728,Average,Home,Active,medium,Debit,Stephens Ltd,NetBanking,No
+CUST-10631,April,Lee,678,Average,Home,Active,low,Debit,"Lewis, Hurley and Adams",UPI,No
+CUST-10243,James,Zimmerman,355,Risky,Home,Active,low,,,,No
+CUST-11026,Daniel,Santana,813,Good,Home,Active,low,,,,No
+CUST-10622,Marc,Morales,554,Risky,Home,Active,medium,,,,No
+CUST-10936,Lisa,Barnes,784,Good,Home,Active,medium,Debit,Curtis-Sanchez,UPI,No
+CUST-11031,Karen,Wagner,581,Risky,Home,Active,medium,Credit,Griffin Ltd,UPI,No
+CUST-11499,David,Williams,645,Risky,Home,Active,medium,,,,No
+CUST-11300,Rebecca,Taylor,840,Good,Home,Active,low,,,,No
+CUST-11214,John,Edwards,810,Good,Home,Active,medium,Debit,Farmer-Davis,POS,No
+CUST-11232,Brian,Rowe,707,Average,Home,Active,medium,,,,No
+CUST-10670,Amy,Norman,775,Good,Home,Active,medium,,,,No
+CUST-11196,April,Taylor,692,Average,Home,Active,low,,,,No
+CUST-11459,Melissa,Garcia,435,Risky,Home,Active,medium,Debit,Hill PLC,POS,No
+CUST-10818,Brandi,Fitzgerald,492,Risky,Home,Active,low,Debit,"Mcdonald, Reynolds and Martin",POS,No
+CUST-10017,Elizabeth,Vasquez,612,Risky,Home,Active,low,Debit,Snyder LLC,UPI,No
+CUST-10021,Renee,Lamb,481,Risky,Home,Active,medium,Debit,"Harris, Hartman and Kelley",POS,No
+CUST-10389,Miguel,Anderson,848,Good,Home,Active,low,,,,No
+CUST-10543,Ricky,Santiago,393,Risky,Home,Active,medium,Credit,"Oconnor, Wright and Phillips",ATM,No
+CUST-10543,Ricky,Santiago,393,Risky,Home,Active,medium,Debit,Pratt-Lee,NetBanking,No
+CUST-10270,Charles,Maldonado,483,Risky,Home,Active,low,,,,No
+CUST-10404,Adam,Carlson,384,Risky,Home,Active,medium,Credit,Aguilar-Kline,ATM,No
+CUST-10404,Adam,Carlson,384,Risky,Home,Active,medium,Debit,Prince Group,NetBanking,No
+CUST-10592,Victor,Johnson,693,Average,Home,Active,medium,,,,No
+CUST-11306,Tiffany,Williams,812,Good,Home,Active,low,Debit,Herrera Group,POS,No
+CUST-10575,Robert,Hughes,422,Risky,Home,Active,low,Debit,Benitez and Sons,UPI,No
+CUST-10108,Teresa,Pitts,650,Risky,Home,Active,medium,Debit,Lopez Ltd,NetBanking,No
+CUST-10108,Teresa,Pitts,650,Risky,Home,Active,medium,Debit,Miles Group,POS,No
+CUST-10129,Michelle,Barrera,603,Risky,Home,Active,medium,Credit,Nichols-Lozano,POS,No
+CUST-10129,Michelle,Barrera,603,Risky,Home,Active,medium,Debit,Estrada and Sons,POS,No
+CUST-10129,Michelle,Barrera,603,Risky,Home,Active,medium,Credit,Hernandez Group,POS,No
+CUST-10861,Jessica,Simpson,402,Risky,Home,Active,low,,,,No
+CUST-11445,Glen,Schultz,751,Good,Home,Active,medium,Credit,Martin and Sons,UPI,No
+CUST-11445,Glen,Schultz,751,Good,Home,Active,medium,Debit,Lee-Johnson,ATM,No
+CUST-11445,Glen,Schultz,751,Good,Home,Active,medium,Credit,Schaefer-Woodward,UPI,No
+CUST-10346,Nancy,Parker,432,Risky,Home,Active,low,Credit,"Leonard, Smith and Hayden",NetBanking,No
