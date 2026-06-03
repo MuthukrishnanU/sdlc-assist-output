@@ -1,0 +1,327 @@
+customer_id,first_name,last_name,merchant_name,loan_type,loan_status,credit_score,principal_amount,transaction_id,channel,credit_score_bucket,principal_bucket,loan_customer_transactions
+CUST-10075,Joanne,Greene,"Snow, Hale and Mcdonald",Home,Active,790,5000000,TXN-700988,NetBanking,Good,medium bucket,Standard
+CUST-10075,Joanne,Greene,"Snow, Hale and Mcdonald",Home,Active,790,5000000,TXN-700988,NetBanking,Good,medium bucket,Standard
+CUST-10075,Joanne,Greene,"Snow, Hale and Mcdonald",Home,Active,790,5000000,TXN-700988,NetBanking,Good,medium bucket,Standard
+CUST-10092,Joshua,Anderson,"Ball, Atkinson and Stevenson",Home,Active,723,1500000,TXN-700855,NetBanking,Average,medium bucket,Standard
+CUST-10269,Laura,Leach,Wolfe-Jackson,Home,Active,683,1500000,TXN-700747,NetBanking,Average,medium bucket,Standard
+CUST-10105,Mark,Eaton,"Miller, Bush and Ryan",Home,Active,369,5000000,TXN-700120,POS,Risky,medium bucket,Standard
+CUST-10105,Mark,Eaton,Young-Adams,Home,Active,369,5000000,TXN-701037,POS,Risky,medium bucket,Standard
+CUST-10199,Marcus,Smith,"Bush, Crawford and Frazier",Home,Active,734,5000000,TXN-700206,UPI,Average,medium bucket,Standard
+CUST-10199,Marcus,Smith,"Nielsen, Morgan and Oliver",Home,Active,734,5000000,TXN-700337,UPI,Average,medium bucket,Standard
+CUST-10199,Marcus,Smith,"Jenkins, Jones and Jones",Home,Active,734,5000000,TXN-700536,UPI,Average,medium bucket,Standard
+CUST-10414,Travis,Pearson,Green and Sons,Home,Active,780,5000000,TXN-700291,UPI,Good,medium bucket,Standard
+CUST-10414,Travis,Pearson,"King, Wilson and Hunter",Home,Active,780,5000000,TXN-700955,POS,Good,medium bucket,Standard
+CUST-10414,Travis,Pearson,Conley and Sons,Home,Active,780,5000000,TXN-700784,POS,Good,medium bucket,Standard
+CUST-10414,Travis,Pearson,Spencer-Vargas,Home,Active,780,5000000,TXN-701034,NetBanking,Good,medium bucket,Standard
+CUST-10414,Travis,Pearson,Green and Sons,Home,Active,780,5000000,TXN-700291,UPI,Good,medium bucket,Standard
+CUST-10414,Travis,Pearson,"King, Wilson and Hunter",Home,Active,780,5000000,TXN-700955,POS,Good,medium bucket,Standard
+CUST-10414,Travis,Pearson,Conley and Sons,Home,Active,780,5000000,TXN-700784,POS,Good,medium bucket,Standard
+CUST-10414,Travis,Pearson,Spencer-Vargas,Home,Active,780,5000000,TXN-701034,NetBanking,Good,medium bucket,Standard
+CUST-10414,Travis,Pearson,Green and Sons,Home,Active,780,5000000,TXN-700291,UPI,Good,medium bucket,Standard
+CUST-10414,Travis,Pearson,"King, Wilson and Hunter",Home,Active,780,5000000,TXN-700955,POS,Good,medium bucket,Standard
+CUST-10414,Travis,Pearson,Conley and Sons,Home,Active,780,5000000,TXN-700784,POS,Good,medium bucket,Standard
+CUST-10414,Travis,Pearson,Spencer-Vargas,Home,Active,780,5000000,TXN-701034,NetBanking,Good,medium bucket,Standard
+CUST-10129,Michelle,Barrera,Nichols-Lozano,Home,Active,603,1500000,TXN-700056,POS,Risky,medium bucket,Standard
+CUST-10129,Michelle,Barrera,Estrada and Sons,Home,Active,603,1500000,TXN-700558,POS,Risky,medium bucket,Standard
+CUST-10129,Michelle,Barrera,Hernandez Group,Home,Active,603,1500000,TXN-701095,POS,Risky,medium bucket,Standard
+CUST-10129,Michelle,Barrera,Nichols-Lozano,Home,Active,603,1500000,TXN-700056,POS,Risky,medium bucket,Standard
+CUST-10129,Michelle,Barrera,Estrada and Sons,Home,Active,603,1500000,TXN-700558,POS,Risky,medium bucket,Standard
+CUST-10129,Michelle,Barrera,Hernandez Group,Home,Active,603,1500000,TXN-701095,POS,Risky,medium bucket,Standard
+CUST-10129,Michelle,Barrera,Nichols-Lozano,Home,Active,603,1500000,TXN-700056,POS,Risky,medium bucket,Standard
+CUST-10129,Michelle,Barrera,Estrada and Sons,Home,Active,603,1500000,TXN-700558,POS,Risky,medium bucket,Standard
+CUST-10129,Michelle,Barrera,Hernandez Group,Home,Active,603,1500000,TXN-701095,POS,Risky,medium bucket,Standard
+CUST-10273,Ryan,Wilkins,Pineda PLC,Home,Active,641,500000,TXN-700303,ATM,Risky,low bucket,Standard
+CUST-10273,Ryan,Wilkins,Hernandez-Rice,Home,Active,641,500000,TXN-700443,NetBanking,Risky,low bucket,Standard
+CUST-10273,Ryan,Wilkins,"Murillo, Edwards and Brady",Home,Active,641,500000,TXN-701423,UPI,Risky,low bucket,Standard
+CUST-10273,Ryan,Wilkins,Pineda PLC,Home,Active,641,500000,TXN-700303,ATM,Risky,low bucket,Standard
+CUST-10273,Ryan,Wilkins,Hernandez-Rice,Home,Active,641,500000,TXN-700443,NetBanking,Risky,low bucket,Standard
+CUST-10273,Ryan,Wilkins,"Murillo, Edwards and Brady",Home,Active,641,500000,TXN-701423,UPI,Risky,low bucket,Standard
+CUST-10427,Jessica,Rice,Davis Group,Home,Active,496,100000,TXN-700455,NetBanking,Risky,low bucket,Standard
+CUST-10427,Jessica,Rice,"Williams, Rosales and Hudson",Home,Active,496,100000,TXN-700209,POS,Risky,low bucket,Standard
+CUST-10427,Jessica,Rice,"Swanson, Smith and Blake",Home,Active,496,100000,TXN-700480,NetBanking,Risky,low bucket,Standard
+CUST-10427,Jessica,Rice,Davis Group,Home,Active,496,100000,TXN-700455,NetBanking,Risky,low bucket,Standard
+CUST-10427,Jessica,Rice,"Williams, Rosales and Hudson",Home,Active,496,100000,TXN-700209,POS,Risky,low bucket,Standard
+CUST-10427,Jessica,Rice,"Swanson, Smith and Blake",Home,Active,496,100000,TXN-700480,NetBanking,Risky,low bucket,Standard
+CUST-10021,Renee,Lamb,"Harris, Hartman and Kelley",Home,Active,481,1500000,TXN-700240,POS,Risky,medium bucket,Standard
+CUST-10237,Melissa,Morgan,Valdez PLC,Home,Active,482,1500000,TXN-700804,ATM,Risky,medium bucket,Standard
+CUST-10237,Melissa,Morgan,Valdez PLC,Home,Active,482,5000000,TXN-700804,ATM,Risky,medium bucket,Standard
+CUST-10412,Jennifer,Hayes,"Thompson, Riddle and Hodge",Home,Active,451,1500000,TXN-700641,UPI,Risky,medium bucket,Standard
+CUST-10150,Amanda,Mccullough,"Thomas, Merritt and Stokes",Home,Active,825,1500000,TXN-700410,ATM,Good,medium bucket,Standard
+CUST-10150,Amanda,Mccullough,"Thomas, Merritt and Stokes",Home,Active,825,1500000,TXN-700410,ATM,Good,medium bucket,Standard
+CUST-10150,Amanda,Mccullough,"Thomas, Merritt and Stokes",Home,Active,825,1500000,TXN-700410,ATM,Good,medium bucket,Standard
+CUST-10150,Amanda,Mccullough,"Thomas, Merritt and Stokes",Home,Active,825,1500000,TXN-700410,ATM,Good,medium bucket,Standard
+CUST-10150,Amanda,Mccullough,"Thomas, Merritt and Stokes",Home,Active,825,1500000,TXN-700410,ATM,Good,medium bucket,Standard
+CUST-10150,Amanda,Mccullough,"Thomas, Merritt and Stokes",Home,Active,825,1500000,TXN-700410,ATM,Good,medium bucket,Standard
+CUST-10150,Amanda,Mccullough,"Thomas, Merritt and Stokes",Home,Active,825,1500000,TXN-700410,ATM,Good,medium bucket,Standard
+CUST-10008,Megan,Singh,"Miller, Gilbert and Olson",Home,Active,374,1500000,TXN-700012,POS,Risky,medium bucket,Standard
+CUST-10441,Steven,Nunez,Lang and Sons,Home,Active,646,500000,TXN-700789,NetBanking,Risky,low bucket,Standard
+CUST-10148,Amanda,Robinson,Thornton Ltd,Home,Active,829,1500000,TXN-700076,UPI,Good,medium bucket,Standard
+CUST-10148,Amanda,Robinson,King-Ellison,Home,Active,829,1500000,TXN-700886,ATM,Good,medium bucket,Standard
+CUST-10148,Amanda,Robinson,Thornton Ltd,Home,Active,829,1500000,TXN-700076,UPI,Good,medium bucket,Standard
+CUST-10148,Amanda,Robinson,King-Ellison,Home,Active,829,1500000,TXN-700886,ATM,Good,medium bucket,Standard
+CUST-10231,Jeremiah,Lopez,"Roberts, Fernandez and Hernandez",Home,Active,638,500000,TXN-700229,NetBanking,Risky,low bucket,Standard
+CUST-10256,Amy,Murphy,Mcdonald LLC,Home,Active,458,5000000,TXN-700187,UPI,Risky,medium bucket,Standard
+CUST-10256,Amy,Murphy,Faulkner-Sanchez,Home,Active,458,5000000,TXN-701273,POS,Risky,medium bucket,Standard
+CUST-10260,Kelsey,Johnson,Phillips-Baker,Home,Active,408,5000000,TXN-701308,UPI,Risky,medium bucket,Standard
+CUST-10260,Kelsey,Johnson,Phillips-Baker,Home,Active,408,5000000,TXN-701308,UPI,Risky,medium bucket,Standard
+CUST-10287,Frank,Jordan,Johnson-Harris,Home,Active,422,500000,TXN-700636,NetBanking,Risky,low bucket,Standard
+CUST-10287,Frank,Jordan,"Wells, Mcmahon and Peterson",Home,Active,422,500000,TXN-701333,POS,Risky,low bucket,Standard
+CUST-10360,Sara,Macdonald,"Lane, Smith and Brown",Home,Active,455,500000,TXN-700888,ATM,Risky,low bucket,Standard
+CUST-10360,Sara,Macdonald,"Lane, Smith and Brown",Home,Active,455,1500000,TXN-700888,ATM,Risky,medium bucket,Standard
+CUST-10252,Lawrence,Delacruz,Moore Inc,Home,Active,725,5000000,TXN-700139,NetBanking,Average,medium bucket,Standard
+CUST-10252,Lawrence,Delacruz,"Baker, Turner and Clark",Home,Active,725,5000000,TXN-701377,ATM,Average,medium bucket,Standard
+CUST-10252,Lawrence,Delacruz,Thompson-Brooks,Home,Active,725,5000000,TXN-701440,NetBanking,Average,medium bucket,Standard
+CUST-10252,Lawrence,Delacruz,Moore Inc,Home,Active,725,5000000,TXN-700139,NetBanking,Average,medium bucket,Standard
+CUST-10252,Lawrence,Delacruz,"Baker, Turner and Clark",Home,Active,725,5000000,TXN-701377,ATM,Average,medium bucket,Standard
+CUST-10252,Lawrence,Delacruz,Thompson-Brooks,Home,Active,725,5000000,TXN-701440,NetBanking,Average,medium bucket,Standard
+CUST-10252,Lawrence,Delacruz,Moore Inc,Home,Active,725,5000000,TXN-700139,NetBanking,Average,medium bucket,Standard
+CUST-10252,Lawrence,Delacruz,"Baker, Turner and Clark",Home,Active,725,5000000,TXN-701377,ATM,Average,medium bucket,Standard
+CUST-10252,Lawrence,Delacruz,Thompson-Brooks,Home,Active,725,5000000,TXN-701440,NetBanking,Average,medium bucket,Standard
+CUST-10259,Eric,Donaldson,Potter-Little,Home,Active,478,500000,TXN-700079,NetBanking,Risky,low bucket,Standard
+CUST-10259,Eric,Donaldson,Lewis PLC,Home,Active,478,500000,TXN-700865,NetBanking,Risky,low bucket,Standard
+CUST-10259,Eric,Donaldson,Burns-Fisher,Home,Active,478,500000,TXN-700669,ATM,Risky,low bucket,Standard
+CUST-10259,Eric,Donaldson,Payne-Williams,Home,Active,478,500000,TXN-700958,ATM,Risky,low bucket,Standard
+CUST-10259,Eric,Donaldson,Potter-Little,Home,Active,478,500000,TXN-700079,NetBanking,Risky,low bucket,Standard
+CUST-10259,Eric,Donaldson,Lewis PLC,Home,Active,478,500000,TXN-700865,NetBanking,Risky,low bucket,Standard
+CUST-10259,Eric,Donaldson,Burns-Fisher,Home,Active,478,500000,TXN-700669,ATM,Risky,low bucket,Standard
+CUST-10259,Eric,Donaldson,Payne-Williams,Home,Active,478,500000,TXN-700958,ATM,Risky,low bucket,Standard
+CUST-10259,Eric,Donaldson,Potter-Little,Home,Active,478,500000,TXN-700079,NetBanking,Risky,low bucket,Standard
+CUST-10259,Eric,Donaldson,Lewis PLC,Home,Active,478,500000,TXN-700865,NetBanking,Risky,low bucket,Standard
+CUST-10259,Eric,Donaldson,Burns-Fisher,Home,Active,478,500000,TXN-700669,ATM,Risky,low bucket,Standard
+CUST-10259,Eric,Donaldson,Payne-Williams,Home,Active,478,500000,TXN-700958,ATM,Risky,low bucket,Standard
+CUST-10259,Eric,Donaldson,Potter-Little,Home,Active,478,500000,TXN-700079,NetBanking,Risky,low bucket,Standard
+CUST-10259,Eric,Donaldson,Lewis PLC,Home,Active,478,500000,TXN-700865,NetBanking,Risky,low bucket,Standard
+CUST-10259,Eric,Donaldson,Burns-Fisher,Home,Active,478,500000,TXN-700669,ATM,Risky,low bucket,Standard
+CUST-10259,Eric,Donaldson,Payne-Williams,Home,Active,478,500000,TXN-700958,ATM,Risky,low bucket,Standard
+CUST-10291,Nicole,Mcconnell,White PLC,Home,Active,722,100000,TXN-701153,ATM,Average,low bucket,Standard
+CUST-10142,Michael,Montes,Carney-Carter,Home,Active,641,500000,TXN-700643,NetBanking,Risky,low bucket,Standard
+CUST-10142,Michael,Montes,Carney-Carter,Home,Active,641,500000,TXN-700643,NetBanking,Risky,low bucket,Standard
+CUST-10142,Michael,Montes,Carney-Carter,Home,Active,641,500000,TXN-700643,NetBanking,Risky,low bucket,Standard
+CUST-10404,Adam,Carlson,Aguilar-Kline,Home,Active,384,1500000,TXN-700523,ATM,Risky,medium bucket,Standard
+CUST-10404,Adam,Carlson,Prince Group,Home,Active,384,1500000,TXN-700862,NetBanking,Risky,medium bucket,Standard
+CUST-10062,Allen,Arroyo,"Fletcher, Ochoa and Nash",Home,Active,429,100000,TXN-700880,NetBanking,Risky,low bucket,Standard
+CUST-10062,Allen,Arroyo,"Fletcher, Ochoa and Nash",Home,Active,429,100000,TXN-700880,NetBanking,Risky,low bucket,Standard
+CUST-10575,Robert,Hughes,Benitez and Sons,Home,Active,422,100000,TXN-701453,UPI,Risky,low bucket,Standard
+CUST-10575,Robert,Hughes,Benitez and Sons,Home,Active,422,100000,TXN-701453,UPI,Risky,low bucket,Standard
+CUST-10724,Tammy,Thomas,Dillon Ltd,Home,Active,515,5000000,TXN-701079,ATM,Risky,medium bucket,Standard
+CUST-10724,Tammy,Thomas,Dillon Ltd,Home,Active,515,5000000,TXN-701079,ATM,Risky,medium bucket,Standard
+CUST-10766,Timothy,Caldwell,Stewart-Baker,Home,Active,420,5000000,TXN-700644,UPI,Risky,medium bucket,Standard
+CUST-10766,Timothy,Caldwell,Stewart-Baker,Home,Active,420,5000000,TXN-700644,UPI,Risky,medium bucket,Standard
+CUST-10766,Timothy,Caldwell,Stewart-Baker,Home,Active,420,5000000,TXN-700644,UPI,Risky,medium bucket,Standard
+CUST-10923,Christopher,Martin,Pearson Inc,Home,Active,423,500000,TXN-700401,UPI,Risky,low bucket,Standard
+CUST-10676,Joshua,Freeman,Alvarado-Mckay,Home,Active,560,100000,TXN-700730,UPI,Risky,low bucket,Standard
+CUST-10676,Joshua,Freeman,Alvarado-Mckay,Home,Active,560,100000,TXN-700730,UPI,Risky,low bucket,Standard
+CUST-10676,Joshua,Freeman,Alvarado-Mckay,Home,Active,560,100000,TXN-700730,UPI,Risky,low bucket,Standard
+CUST-10930,Stephanie,Boyd,Weber and Sons,Home,Active,694,500000,TXN-700400,POS,Average,low bucket,Standard
+CUST-10537,Brenda,Patterson,Chen and Sons,Home,Active,834,500000,TXN-700375,UPI,Good,low bucket,Standard
+CUST-10537,Brenda,Patterson,Morgan and Sons,Home,Active,834,500000,TXN-700674,UPI,Good,low bucket,Standard
+CUST-10537,Brenda,Patterson,Chen and Sons,Home,Active,834,500000,TXN-700375,UPI,Good,low bucket,Standard
+CUST-10537,Brenda,Patterson,Morgan and Sons,Home,Active,834,500000,TXN-700674,UPI,Good,low bucket,Standard
+CUST-10818,Brandi,Fitzgerald,"Mcdonald, Reynolds and Martin",Home,Active,492,500000,TXN-701123,POS,Risky,low bucket,Standard
+CUST-10962,James,Russell,Foley-Marquez,Home,Active,594,100000,TXN-700287,POS,Risky,low bucket,Standard
+CUST-10538,Joshua,Jefferson,Johnson-West,Home,Active,512,1500000,TXN-700346,ATM,Risky,medium bucket,Standard
+CUST-10538,Joshua,Jefferson,"Summers, Barrett and Hicks",Home,Active,512,1500000,TXN-701359,POS,Risky,medium bucket,Standard
+CUST-10538,Joshua,Jefferson,Edwards Group,Home,Active,512,1500000,TXN-701245,NetBanking,Risky,medium bucket,Standard
+CUST-10538,Joshua,Jefferson,Johnson-West,Home,Active,512,1500000,TXN-700346,ATM,Risky,medium bucket,Standard
+CUST-10538,Joshua,Jefferson,"Summers, Barrett and Hicks",Home,Active,512,1500000,TXN-701359,POS,Risky,medium bucket,Standard
+CUST-10538,Joshua,Jefferson,Edwards Group,Home,Active,512,1500000,TXN-701245,NetBanking,Risky,medium bucket,Standard
+CUST-10636,Laura,Andrews,"Peterson, Johnson and Allen",Home,Active,378,500000,TXN-700142,NetBanking,Risky,low bucket,Standard
+CUST-10636,Laura,Andrews,"Peterson, Johnson and Allen",Home,Active,378,500000,TXN-700142,NetBanking,Risky,low bucket,Standard
+CUST-10700,Aaron,Hill,Miles-Sanchez,Home,Active,443,500000,TXN-701313,POS,Risky,low bucket,Standard
+CUST-10757,Mary,Bennett,"Parker, Nash and Berger",Home,Active,829,5000000,TXN-700093,ATM,Good,medium bucket,Standard
+CUST-10757,Mary,Bennett,"Parker, Nash and Berger",Home,Active,829,5000000,TXN-700093,ATM,Good,medium bucket,Standard
+CUST-10757,Mary,Bennett,"Parker, Nash and Berger",Home,Active,829,5000000,TXN-700093,ATM,Good,medium bucket,Standard
+CUST-10775,Brooke,Young,"Lopez, Ramirez and Douglas",Home,Active,607,5000000,TXN-700836,ATM,Risky,medium bucket,Standard
+CUST-10775,Brooke,Young,Jones-Hodges,Home,Active,607,5000000,TXN-701086,NetBanking,Risky,medium bucket,Standard
+CUST-10810,Sonia,Miller,Stevens Inc,Home,Active,422,100000,TXN-701228,ATM,Risky,low bucket,Standard
+CUST-10810,Sonia,Miller,Walker PLC,Home,Active,422,100000,TXN-701407,POS,Risky,low bucket,Standard
+CUST-10543,Ricky,Santiago,"Oconnor, Wright and Phillips",Home,Active,393,500000,TXN-700267,ATM,Risky,low bucket,Standard
+CUST-10543,Ricky,Santiago,Pratt-Lee,Home,Active,393,500000,TXN-700879,NetBanking,Risky,low bucket,Standard
+CUST-10543,Ricky,Santiago,"Oconnor, Wright and Phillips",Home,Active,393,1500000,TXN-700267,ATM,Risky,medium bucket,Standard
+CUST-10543,Ricky,Santiago,Pratt-Lee,Home,Active,393,1500000,TXN-700879,NetBanking,Risky,medium bucket,Standard
+CUST-10543,Ricky,Santiago,"Oconnor, Wright and Phillips",Home,Active,393,500000,TXN-700267,ATM,Risky,low bucket,Standard
+CUST-10543,Ricky,Santiago,Pratt-Lee,Home,Active,393,500000,TXN-700879,NetBanking,Risky,low bucket,Standard
+CUST-10543,Ricky,Santiago,"Oconnor, Wright and Phillips",Home,Active,393,1500000,TXN-700267,ATM,Risky,medium bucket,Standard
+CUST-10543,Ricky,Santiago,Pratt-Lee,Home,Active,393,1500000,TXN-700879,NetBanking,Risky,medium bucket,Standard
+CUST-10594,Susan,Poole,Davis-Adams,Home,Active,648,5000000,TXN-700218,UPI,Risky,medium bucket,Standard
+CUST-10594,Susan,Poole,Castillo-Porter,Home,Active,648,5000000,TXN-700420,NetBanking,Risky,medium bucket,Standard
+CUST-10594,Susan,Poole,Davis-Adams,Home,Active,648,5000000,TXN-700218,UPI,Risky,medium bucket,Standard
+CUST-10594,Susan,Poole,Castillo-Porter,Home,Active,648,5000000,TXN-700420,NetBanking,Risky,medium bucket,Standard
+CUST-10594,Susan,Poole,Davis-Adams,Home,Active,648,5000000,TXN-700218,UPI,Risky,medium bucket,Standard
+CUST-10594,Susan,Poole,Castillo-Porter,Home,Active,648,5000000,TXN-700420,NetBanking,Risky,medium bucket,Standard
+CUST-10654,Jake,Martin,Charles-Le,Home,Active,422,1500000,TXN-701026,ATM,Risky,medium bucket,Standard
+CUST-10656,Bryan,Morrison,"Morgan, Mendez and Hamilton",Home,Active,630,500000,TXN-700181,POS,Risky,low bucket,Standard
+CUST-10805,David,Scott,Palmer and Sons,Home,Active,703,500000,TXN-700910,ATM,Average,low bucket,Standard
+CUST-10805,David,Scott,Sherman Group,Home,Active,703,500000,TXN-701031,UPI,Average,low bucket,Standard
+CUST-10934,Jason,Lopez,Morris-Wang,Home,Active,696,500000,TXN-700651,POS,Average,low bucket,Standard
+CUST-10934,Jason,Lopez,Sandoval-Baker,Home,Active,696,500000,TXN-701135,POS,Average,low bucket,Standard
+CUST-10934,Jason,Lopez,Morris-Wang,Home,Active,696,500000,TXN-700651,POS,Average,low bucket,Standard
+CUST-10934,Jason,Lopez,Sandoval-Baker,Home,Active,696,500000,TXN-701135,POS,Average,low bucket,Standard
+CUST-10531,Robin,Stone,Mcclain PLC,Home,Active,437,100000,TXN-700014,NetBanking,Risky,low bucket,Standard
+CUST-10617,James,Moore,Williams-Murphy,Home,Active,762,5000000,TXN-700222,UPI,Good,medium bucket,Standard
+CUST-10617,James,Moore,Newton PLC,Home,Active,762,5000000,TXN-701425,POS,Good,medium bucket,Standard
+CUST-10735,Emily,Hess,"Perkins, Delgado and Herman",Home,Active,633,5000000,TXN-701049,NetBanking,Risky,medium bucket,Standard
+CUST-10735,Emily,Hess,"Perkins, Delgado and Herman",Home,Active,633,5000000,TXN-701049,NetBanking,Risky,medium bucket,Standard
+CUST-10834,Brad,Friedman,Oliver Ltd,Home,Active,745,100000,TXN-701272,ATM,Average,low bucket,Standard
+CUST-10834,Brad,Friedman,Oliver Ltd,Home,Active,745,100000,TXN-701272,ATM,Average,low bucket,Standard
+CUST-10834,Brad,Friedman,Oliver Ltd,Home,Active,745,100000,TXN-701272,ATM,Average,low bucket,Standard
+CUST-10563,Cameron,White,Brown-Ortiz,Home,Active,688,1500000,TXN-700737,POS,Average,medium bucket,Standard
+CUST-10605,Catherine,Rodriguez,Snyder-Estrada,Home,Active,664,5000000,TXN-701199,UPI,Average,medium bucket,Standard
+CUST-10926,Daniel,Smith,Randolph LLC,Home,Active,849,5000000,TXN-701324,NetBanking,Good,medium bucket,Standard
+CUST-10748,Maurice,Hardy,Frost PLC,Home,Active,437,100000,TXN-700552,ATM,Risky,low bucket,Standard
+CUST-10829,Caitlin,Smith,"Mitchell, Parker and Rodriguez",Home,Active,446,100000,TXN-701400,NetBanking,Risky,low bucket,Standard
+CUST-10829,Caitlin,Smith,Sullivan LLC,Home,Active,446,100000,TXN-701150,POS,Risky,low bucket,Standard
+CUST-10829,Caitlin,Smith,"Mitchell, Parker and Rodriguez",Home,Active,446,100000,TXN-701400,NetBanking,Risky,low bucket,Standard
+CUST-10829,Caitlin,Smith,Sullivan LLC,Home,Active,446,100000,TXN-701150,POS,Risky,low bucket,Standard
+CUST-10663,Jeffrey,Morris,Young Ltd,Home,Active,728,1500000,TXN-700268,POS,Average,medium bucket,Standard
+CUST-10663,Jeffrey,Morris,Stephens Ltd,Home,Active,728,1500000,TXN-701469,NetBanking,Average,medium bucket,Standard
+CUST-10663,Jeffrey,Morris,Young Ltd,Home,Active,728,1500000,TXN-700268,POS,Average,medium bucket,Standard
+CUST-10663,Jeffrey,Morris,Stephens Ltd,Home,Active,728,1500000,TXN-701469,NetBanking,Average,medium bucket,Standard
+CUST-10663,Jeffrey,Morris,Young Ltd,Home,Active,728,1500000,TXN-700268,POS,Average,medium bucket,Standard
+CUST-10663,Jeffrey,Morris,Stephens Ltd,Home,Active,728,1500000,TXN-701469,NetBanking,Average,medium bucket,Standard
+CUST-10663,Jeffrey,Morris,Young Ltd,Home,Active,728,1500000,TXN-700268,POS,Average,medium bucket,Standard
+CUST-10663,Jeffrey,Morris,Stephens Ltd,Home,Active,728,1500000,TXN-701469,NetBanking,Average,medium bucket,Standard
+CUST-10663,Jeffrey,Morris,Young Ltd,Home,Active,728,1500000,TXN-700268,POS,Average,medium bucket,Standard
+CUST-10663,Jeffrey,Morris,Stephens Ltd,Home,Active,728,1500000,TXN-701469,NetBanking,Average,medium bucket,Standard
+CUST-10663,Jeffrey,Morris,Young Ltd,Home,Active,728,1500000,TXN-700268,POS,Average,medium bucket,Standard
+CUST-10663,Jeffrey,Morris,Stephens Ltd,Home,Active,728,1500000,TXN-701469,NetBanking,Average,medium bucket,Standard
+CUST-10663,Jeffrey,Morris,Young Ltd,Home,Active,728,1500000,TXN-700268,POS,Average,medium bucket,Standard
+CUST-10663,Jeffrey,Morris,Stephens Ltd,Home,Active,728,1500000,TXN-701469,NetBanking,Average,medium bucket,Standard
+CUST-10663,Jeffrey,Morris,Young Ltd,Home,Active,728,1500000,TXN-700268,POS,Average,medium bucket,Standard
+CUST-10663,Jeffrey,Morris,Stephens Ltd,Home,Active,728,1500000,TXN-701469,NetBanking,Average,medium bucket,Standard
+CUST-10848,Susan,Shelton,Williams-Harrington,Home,Active,541,5000000,TXN-700203,UPI,Risky,medium bucket,Standard
+CUST-10905,Melissa,Gonzalez,"Hernandez, Ray and Gray",Home,Active,789,500000,TXN-700519,UPI,Good,low bucket,Standard
+CUST-10729,Rebecca,Brown,"Hoffman, Glenn and Moore",Home,Active,744,100000,TXN-701257,NetBanking,Average,low bucket,Standard
+CUST-10729,Rebecca,Brown,"Hoffman, Glenn and Moore",Home,Active,744,100000,TXN-701257,NetBanking,Average,low bucket,Standard
+CUST-10802,Stephen,Calderon,Scott-Vaughan,Home,Active,595,100000,TXN-700897,POS,Risky,low bucket,Standard
+CUST-10802,Stephen,Calderon,Fernandez-Robinson,Home,Active,595,100000,TXN-701282,POS,Risky,low bucket,Standard
+CUST-10802,Stephen,Calderon,Scott-Vaughan,Home,Active,595,100000,TXN-700897,POS,Risky,low bucket,Standard
+CUST-10802,Stephen,Calderon,Fernandez-Robinson,Home,Active,595,100000,TXN-701282,POS,Risky,low bucket,Standard
+CUST-10802,Stephen,Calderon,Scott-Vaughan,Home,Active,595,100000,TXN-700897,POS,Risky,low bucket,Standard
+CUST-10802,Stephen,Calderon,Fernandez-Robinson,Home,Active,595,100000,TXN-701282,POS,Risky,low bucket,Standard
+CUST-10832,Bryan,Jimenez,Velez-Gomez,Home,Active,703,1500000,TXN-701433,ATM,Average,medium bucket,Standard
+CUST-10832,Bryan,Jimenez,Weber-Cobb,Home,Active,703,1500000,TXN-701378,NetBanking,Average,medium bucket,Standard
+CUST-10832,Bryan,Jimenez,Christensen-Perez,Home,Active,703,1500000,TXN-701347,ATM,Average,medium bucket,Standard
+CUST-10832,Bryan,Jimenez,Stewart LLC,Home,Active,703,1500000,TXN-701365,NetBanking,Average,medium bucket,Standard
+CUST-10936,Lisa,Barnes,Curtis-Sanchez,Home,Active,784,1500000,TXN-701027,UPI,Good,medium bucket,Standard
+CUST-10936,Lisa,Barnes,Curtis-Sanchez,Home,Active,784,5000000,TXN-701027,UPI,Good,medium bucket,Standard
+CUST-10936,Lisa,Barnes,Curtis-Sanchez,Home,Active,784,1500000,TXN-701027,UPI,Good,medium bucket,Standard
+CUST-10936,Lisa,Barnes,Curtis-Sanchez,Home,Active,784,5000000,TXN-701027,UPI,Good,medium bucket,Standard
+CUST-10936,Lisa,Barnes,Curtis-Sanchez,Home,Active,784,1500000,TXN-701027,UPI,Good,medium bucket,Standard
+CUST-10936,Lisa,Barnes,Curtis-Sanchez,Home,Active,784,5000000,TXN-701027,UPI,Good,medium bucket,Standard
+CUST-11047,Nicole,Russell,Arnold Group,Home,Active,605,100000,TXN-701304,ATM,Risky,low bucket,Standard
+CUST-11394,Christina,Graham,Clark-Gonzalez,Home,Active,599,100000,TXN-700715,ATM,Risky,low bucket,Standard
+CUST-11409,Natalie,Harris,"Morgan, Reese and Johnson",Home,Active,576,1500000,TXN-700025,ATM,Risky,medium bucket,Standard
+CUST-11409,Natalie,Harris,"Morgan, Reese and Johnson",Home,Active,576,1500000,TXN-700025,ATM,Risky,medium bucket,Standard
+CUST-11106,Bobby,Gonzalez,Jones-Miller,Home,Active,385,500000,TXN-700431,ATM,Risky,low bucket,Standard
+CUST-11216,Richard,Simmons,Holland Ltd,Home,Active,650,5000000,TXN-701165,UPI,Average,medium bucket,Standard
+CUST-11216,Richard,Simmons,Holland Ltd,Home,Active,650,5000000,TXN-701165,UPI,Average,medium bucket,Standard
+CUST-11445,Glen,Schultz,Martin and Sons,Home,Active,751,5000000,TXN-700325,UPI,Good,medium bucket,Standard
+CUST-11445,Glen,Schultz,Lee-Johnson,Home,Active,751,5000000,TXN-700850,ATM,Good,medium bucket,Standard
+CUST-11445,Glen,Schultz,Schaefer-Woodward,Home,Active,751,5000000,TXN-701045,UPI,Good,medium bucket,Standard
+CUST-11445,Glen,Schultz,Martin and Sons,Home,Active,751,5000000,TXN-700325,UPI,Good,medium bucket,Standard
+CUST-11445,Glen,Schultz,Lee-Johnson,Home,Active,751,5000000,TXN-700850,ATM,Good,medium bucket,Standard
+CUST-11445,Glen,Schultz,Schaefer-Woodward,Home,Active,751,5000000,TXN-701045,UPI,Good,medium bucket,Standard
+CUST-11445,Glen,Schultz,Martin and Sons,Home,Active,751,5000000,TXN-700325,UPI,Good,medium bucket,Standard
+CUST-11445,Glen,Schultz,Lee-Johnson,Home,Active,751,5000000,TXN-700850,ATM,Good,medium bucket,Standard
+CUST-11445,Glen,Schultz,Schaefer-Woodward,Home,Active,751,5000000,TXN-701045,UPI,Good,medium bucket,Standard
+CUST-11343,Melvin,Pace,"Cooper, Garcia and Collins",Home,Active,440,500000,TXN-701397,UPI,Risky,low bucket,Standard
+CUST-11388,Andrea,Perez,Rojas-Scott,Home,Active,733,100000,TXN-700328,NetBanking,Average,low bucket,Standard
+CUST-11388,Andrea,Perez,Rojas-Scott,Home,Active,733,100000,TXN-700328,NetBanking,Average,low bucket,Standard
+CUST-11478,Selena,Schmitt,Mclaughlin-Davis,Home,Active,463,500000,TXN-700381,POS,Risky,low bucket,Standard
+CUST-11478,Selena,Schmitt,Mclaughlin-Davis,Home,Active,463,500000,TXN-700381,POS,Risky,low bucket,Standard
+CUST-11111,Rebecca,Bates,Taylor-Cook,Home,Active,438,5000000,TXN-700444,POS,Risky,medium bucket,Standard
+CUST-11111,Rebecca,Bates,Taylor-Cook,Home,Active,438,5000000,TXN-700444,POS,Risky,medium bucket,Standard
+CUST-11170,Kyle,Hutchinson,Adams and Sons,Home,Active,693,1500000,TXN-700153,POS,Average,medium bucket,Standard
+CUST-11194,Dawn,King,Good Group,Home,Active,475,100000,TXN-700845,POS,Risky,low bucket,Standard
+CUST-11194,Dawn,King,Adams-Solis,Home,Active,475,100000,TXN-701418,ATM,Risky,low bucket,Standard
+CUST-11194,Dawn,King,Good Group,Home,Active,475,100000,TXN-700845,POS,Risky,low bucket,Standard
+CUST-11194,Dawn,King,Adams-Solis,Home,Active,475,100000,TXN-701418,ATM,Risky,low bucket,Standard
+CUST-11194,Dawn,King,Good Group,Home,Active,475,100000,TXN-700845,POS,Risky,low bucket,Standard
+CUST-11194,Dawn,King,Adams-Solis,Home,Active,475,100000,TXN-701418,ATM,Risky,low bucket,Standard
+CUST-11429,Kristin,Davis,Freeman Ltd,Home,Active,731,1500000,TXN-700235,NetBanking,Average,medium bucket,Standard
+CUST-11429,Kristin,Davis,Garrett-Bentley,Home,Active,731,1500000,TXN-700170,UPI,Average,medium bucket,Standard
+CUST-11272,Samuel,Beasley,Webb-Smith,Home,Active,745,5000000,TXN-700363,ATM,Average,medium bucket,Standard
+CUST-11272,Samuel,Beasley,"Villarreal, Pratt and Huffman",Home,Active,745,5000000,TXN-700734,ATM,Average,medium bucket,Standard
+CUST-11127,Robert,Carlson,"Haney, Simmons and Wood",Home,Active,496,100000,TXN-700691,ATM,Risky,low bucket,Standard
+CUST-11127,Robert,Carlson,"Haney, Simmons and Wood",Home,Active,496,100000,TXN-700691,ATM,Risky,low bucket,Standard
+CUST-11127,Robert,Carlson,"Haney, Simmons and Wood",Home,Active,496,100000,TXN-700691,ATM,Risky,low bucket,Standard
+CUST-11127,Robert,Carlson,"Haney, Simmons and Wood",Home,Active,496,100000,TXN-700691,ATM,Risky,low bucket,Standard
+CUST-11417,Johnathan,Thomas,Barry-Briggs,Home,Active,686,5000000,TXN-700891,UPI,Average,medium bucket,Standard
+CUST-11459,Melissa,Garcia,Hill PLC,Home,Active,435,5000000,TXN-700100,POS,Risky,medium bucket,Standard
+CUST-11148,Dawn,Bradley,Mitchell-Glass,Home,Active,754,5000000,TXN-700054,POS,Good,medium bucket,Standard
+CUST-11148,Dawn,Bradley,Mitchell-Glass,Home,Active,754,5000000,TXN-700054,POS,Good,medium bucket,Standard
+CUST-11226,Mark,Kirby,Lee PLC,Home,Active,665,1500000,TXN-700919,POS,Average,medium bucket,Standard
+CUST-11226,Mark,Kirby,"Flores, Peterson and Hatfield",Home,Active,665,1500000,TXN-700843,POS,Average,medium bucket,Standard
+CUST-11226,Mark,Kirby,Ortiz Group,Home,Active,665,1500000,TXN-701422,POS,Average,medium bucket,Standard
+CUST-11306,Tiffany,Williams,Herrera Group,Home,Active,812,500000,TXN-701098,POS,Good,low bucket,Standard
+CUST-11306,Tiffany,Williams,Herrera Group,Home,Active,812,500000,TXN-701098,POS,Good,low bucket,Standard
+CUST-11322,Renee,Ferguson,Gibson and Sons,Home,Active,454,100000,TXN-700871,POS,Risky,low bucket,Standard
+CUST-11322,Renee,Ferguson,"Boone, Mullen and Holloway",Home,Active,454,100000,TXN-700953,UPI,Risky,low bucket,Standard
+CUST-11322,Renee,Ferguson,Flores PLC,Home,Active,454,100000,TXN-700940,ATM,Risky,low bucket,Standard
+CUST-11322,Renee,Ferguson,Gibson and Sons,Home,Active,454,100000,TXN-700871,POS,Risky,low bucket,Standard
+CUST-11322,Renee,Ferguson,"Boone, Mullen and Holloway",Home,Active,454,100000,TXN-700953,UPI,Risky,low bucket,Standard
+CUST-11322,Renee,Ferguson,Flores PLC,Home,Active,454,100000,TXN-700940,ATM,Risky,low bucket,Standard
+CUST-11350,Chase,Brooks,Ross-Lopez,Home,Active,836,100000,TXN-700078,NetBanking,Good,low bucket,Standard
+CUST-11025,Larry,Lewis,"Love, Rice and Boyd",Home,Active,497,5000000,TXN-700407,POS,Risky,medium bucket,Standard
+CUST-11025,Larry,Lewis,"Williams, Cameron and Holden",Home,Active,497,5000000,TXN-701232,ATM,Risky,medium bucket,Standard
+CUST-11043,Jose,Wilson,Knight LLC,Home,Active,714,100000,TXN-701068,UPI,Average,low bucket,Standard
+CUST-11204,Timothy,Williams,"Harrell, Grimes and Armstrong",Home,Active,523,500000,TXN-700640,NetBanking,Risky,low bucket,Standard
+CUST-11204,Timothy,Williams,"Harrell, Grimes and Armstrong",Home,Active,523,5000000,TXN-700640,NetBanking,Risky,medium bucket,Standard
+CUST-11254,John,Byrd,"Martin, Swanson and Pollard",Home,Active,508,500000,TXN-700270,UPI,Risky,low bucket,Standard
+CUST-11254,John,Byrd,Chandler-Robinson,Home,Active,508,500000,TXN-700551,NetBanking,Risky,low bucket,Standard
+CUST-11254,John,Byrd,Diaz PLC,Home,Active,508,500000,TXN-700964,POS,Risky,low bucket,Standard
+CUST-11254,John,Byrd,"Martin, Swanson and Pollard",Home,Active,508,500000,TXN-700270,UPI,Risky,low bucket,Standard
+CUST-11254,John,Byrd,Chandler-Robinson,Home,Active,508,500000,TXN-700551,NetBanking,Risky,low bucket,Standard
+CUST-11254,John,Byrd,Diaz PLC,Home,Active,508,500000,TXN-700964,POS,Risky,low bucket,Standard
+CUST-11254,John,Byrd,"Martin, Swanson and Pollard",Home,Active,508,500000,TXN-700270,UPI,Risky,low bucket,Standard
+CUST-11254,John,Byrd,Chandler-Robinson,Home,Active,508,500000,TXN-700551,NetBanking,Risky,low bucket,Standard
+CUST-11254,John,Byrd,Diaz PLC,Home,Active,508,500000,TXN-700964,POS,Risky,low bucket,Standard
+CUST-11335,Jeffrey,Sanders,Reeves-Brown,Home,Active,844,1500000,TXN-700566,UPI,Good,medium bucket,Standard
+CUST-11397,Leah,Joseph,Gross-Washington,Home,Active,716,500000,TXN-700313,POS,Average,low bucket,Standard
+CUST-11397,Leah,Joseph,Paul-Spence,Home,Active,716,500000,TXN-701042,POS,Average,low bucket,Standard
+CUST-11397,Leah,Joseph,Gross-Washington,Home,Active,716,500000,TXN-700313,POS,Average,low bucket,Standard
+CUST-11397,Leah,Joseph,Paul-Spence,Home,Active,716,500000,TXN-701042,POS,Average,low bucket,Standard
+CUST-11258,Angela,Miller,Gamble-Williams,Home,Active,612,500000,TXN-700137,ATM,Risky,low bucket,Standard
+CUST-11295,Adam,Flowers,Davis PLC,Home,Active,826,5000000,TXN-701445,NetBanking,Good,medium bucket,Standard
+CUST-11295,Adam,Flowers,Davis PLC,Home,Active,826,5000000,TXN-701445,NetBanking,Good,medium bucket,Standard
+CUST-11295,Adam,Flowers,Davis PLC,Home,Active,826,5000000,TXN-701445,NetBanking,Good,medium bucket,Standard
+CUST-11336,Tracey,Lewis,Terrell-Melendez,Home,Active,496,500000,TXN-700417,ATM,Risky,low bucket,Standard
+CUST-11348,Kayla,Sherman,"Adams, Reynolds and Glenn",Home,Active,555,100000,TXN-700821,UPI,Risky,low bucket,Standard
+CUST-11348,Kayla,Sherman,Olson and Sons,Home,Active,555,100000,TXN-700504,UPI,Risky,low bucket,Standard
+CUST-11348,Kayla,Sherman,Williams and Sons,Home,Active,555,100000,TXN-700800,ATM,Risky,low bucket,Standard
+CUST-11348,Kayla,Sherman,"Rosario, Mejia and Grant",Home,Active,555,100000,TXN-700744,UPI,Risky,low bucket,Standard
+CUST-11348,Kayla,Sherman,"Adams, Reynolds and Glenn",Home,Active,555,100000,TXN-700821,UPI,Risky,low bucket,Standard
+CUST-11348,Kayla,Sherman,Olson and Sons,Home,Active,555,100000,TXN-700504,UPI,Risky,low bucket,Standard
+CUST-11348,Kayla,Sherman,Williams and Sons,Home,Active,555,100000,TXN-700800,ATM,Risky,low bucket,Standard
+CUST-11348,Kayla,Sherman,"Rosario, Mejia and Grant",Home,Active,555,100000,TXN-700744,UPI,Risky,low bucket,Standard
+CUST-11348,Kayla,Sherman,"Adams, Reynolds and Glenn",Home,Active,555,100000,TXN-700821,UPI,Risky,low bucket,Standard
+CUST-11348,Kayla,Sherman,Olson and Sons,Home,Active,555,100000,TXN-700504,UPI,Risky,low bucket,Standard
+CUST-11348,Kayla,Sherman,Williams and Sons,Home,Active,555,100000,TXN-700800,ATM,Risky,low bucket,Standard
+CUST-11348,Kayla,Sherman,"Rosario, Mejia and Grant",Home,Active,555,100000,TXN-700744,UPI,Risky,low bucket,Standard
+CUST-11348,Kayla,Sherman,"Adams, Reynolds and Glenn",Home,Active,555,100000,TXN-700821,UPI,Risky,low bucket,Standard
+CUST-11348,Kayla,Sherman,Olson and Sons,Home,Active,555,100000,TXN-700504,UPI,Risky,low bucket,Standard
+CUST-11348,Kayla,Sherman,Williams and Sons,Home,Active,555,100000,TXN-700800,ATM,Risky,low bucket,Standard
+CUST-11348,Kayla,Sherman,"Rosario, Mejia and Grant",Home,Active,555,100000,TXN-700744,UPI,Risky,low bucket,Standard
+CUST-11348,Kayla,Sherman,"Adams, Reynolds and Glenn",Home,Active,555,100000,TXN-700821,UPI,Risky,low bucket,Standard
+CUST-11348,Kayla,Sherman,Olson and Sons,Home,Active,555,100000,TXN-700504,UPI,Risky,low bucket,Standard
+CUST-11348,Kayla,Sherman,Williams and Sons,Home,Active,555,100000,TXN-700800,ATM,Risky,low bucket,Standard
+CUST-11348,Kayla,Sherman,"Rosario, Mejia and Grant",Home,Active,555,100000,TXN-700744,UPI,Risky,low bucket,Standard
+CUST-11348,Kayla,Sherman,"Adams, Reynolds and Glenn",Home,Active,555,100000,TXN-700821,UPI,Risky,low bucket,Standard
+CUST-11348,Kayla,Sherman,Olson and Sons,Home,Active,555,100000,TXN-700504,UPI,Risky,low bucket,Standard
+CUST-11348,Kayla,Sherman,Williams and Sons,Home,Active,555,100000,TXN-700800,ATM,Risky,low bucket,Standard
+CUST-11348,Kayla,Sherman,"Rosario, Mejia and Grant",Home,Active,555,100000,TXN-700744,UPI,Risky,low bucket,Standard
+CUST-11048,Jessica,Combs,Donaldson Group,Home,Active,330,500000,TXN-700516,UPI,Risky,low bucket,Standard
+CUST-11048,Jessica,Combs,Donaldson Group,Home,Active,330,100000,TXN-700516,UPI,Risky,low bucket,Standard
+CUST-11048,Jessica,Combs,Donaldson Group,Home,Active,330,500000,TXN-700516,UPI,Risky,low bucket,Standard
+CUST-11048,Jessica,Combs,Donaldson Group,Home,Active,330,100000,TXN-700516,UPI,Risky,low bucket,Standard
+CUST-11375,Tracy,Barnett,"Perez, Matthews and Horton",Home,Active,777,1500000,TXN-701357,ATM,Good,medium bucket,Standard
+CUST-11375,Tracy,Barnett,"Perez, Matthews and Horton",Home,Active,777,1500000,TXN-701357,ATM,Good,medium bucket,Standard
+CUST-11400,Stacey,Oconnor,"Small, Campbell and Robinson",Home,Active,486,100000,TXN-701166,NetBanking,Risky,low bucket,Standard
+CUST-11283,Thomas,Ramirez,Vaughan Group,Home,Active,420,100000,TXN-700603,UPI,Risky,low bucket,Standard
+CUST-11389,Matthew,Martinez,"Solis, Wilson and White",Home,Active,744,5000000,TXN-701498,NetBanking,Average,medium bucket,Standard
+CUST-11389,Matthew,Martinez,"Solis, Wilson and White",Home,Active,744,5000000,TXN-701498,NetBanking,Average,medium bucket,Standard
+CUST-11031,Karen,Wagner,Griffin Ltd,Home,Active,581,1500000,TXN-700608,UPI,Risky,medium bucket,Standard
+CUST-11031,Karen,Wagner,Griffin Ltd,Home,Active,581,5000000,TXN-700608,UPI,Risky,medium bucket,Standard
+CUST-11125,Jennifer,Cook,"Cruz, Smith and Ryan",Home,Active,803,5000000,TXN-700331,UPI,Good,medium bucket,Standard
+CUST-11125,Jennifer,Cook,"Cruz, Smith and Ryan",Home,Active,803,5000000,TXN-700331,UPI,Good,medium bucket,Standard
