@@ -1,0 +1,9 @@
+year,month,channel,total_transactions,total_amount,category
+2026,4,ATM,87,2052320.27,Regular Channel
+2026,4,NetBanking,77,1811868.79,Regular Channel
+2026,4,POS,102,2527967.48,Progressive Channel
+2026,4,UPI,105,2673276.26,Progressive Channel
+2026,5,ATM,272,6664757.89,Progressive Channel
+2026,5,NetBanking,285,7322040.81,Progressive Channel
+2026,5,POS,292,7178268.56,Progressive Channel
+2026,5,UPI,280,6923798.2,Progressive Channel
