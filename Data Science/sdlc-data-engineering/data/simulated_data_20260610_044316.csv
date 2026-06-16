@@ -1,0 +1,237 @@
+customer_id,first_name,last_name,merchant_name,loan_type,loan_status,credit_score,principal_amount,transaction_type,channel,credit_score_flag,principal_amount_bucket,upi_inclined_flag
+CUST-11146,Katelyn,Caldwell,,Home,Active,460,100000,,,Risky,low,No
+CUST-10531,Robin,Stone,Mcclain PLC,Home,Active,437,100000,Debit,NetBanking,Risky,low,No
+CUST-10612,Alexander,Johnson,,Home,Active,534,100000,,,Risky,low,No
+CUST-10351,Vanessa,Gaines,"Rice, Daniels and Jackson",Home,Active,480,5000000,Debit,UPI,Risky,medium,No
+CUST-10126,Douglas,Lopez,Flores-Jenkins,Home,Active,343,100000,Debit,ATM,Risky,low,No
+CUST-10859,Richard,Olson,,Home,Active,402,500000,,,Risky,low,No
+CUST-11025,Larry,Lewis,"Williams, Cameron and Holden",Home,Active,497,5000000,Credit,ATM,Risky,medium,No
+CUST-10969,Geoffrey,Stone,,Home,Active,566,5000000,,,Risky,medium,No
+CUST-11170,Kyle,Hutchinson,Adams and Sons,Home,Active,693,1500000,Credit,POS,Average,medium,No
+CUST-10497,Nicole,Nichols,,Home,Active,585,500000,,,Risky,low,No
+CUST-11348,Kayla,Sherman,Williams and Sons,Home,Active,555,100000,Debit,ATM,Risky,low,No
+CUST-11295,Adam,Flowers,Davis PLC,Home,Active,826,5000000,Credit,NetBanking,Good,medium,No
+CUST-10964,Andrea,Terry,Stephens-Ramsey,Home,Active,685,100000,Credit,NetBanking,Average,low,No
+CUST-10225,Betty,Martin,,Home,Active,313,100000,,,Risky,low,No
+CUST-10483,Barry,Hubbard,,Home,Active,552,1500000,,,Risky,medium,No
+CUST-11280,Ralph,Salazar,"Olsen, Sanford and Rice",Home,Active,591,5000000,Debit,UPI,Risky,medium,No
+CUST-10005,Joseph,Gallagher,,Home,Active,377,1500000,,,Risky,medium,No
+CUST-10263,Lori,Hall,,Home,Active,429,500000,,,Risky,low,No
+CUST-10313,Joshua,Wagner,Clark-Coleman,Home,Active,633,100000,Credit,NetBanking,Risky,low,No
+CUST-11184,Kara,Ferguson,"Spears, White and Mendoza",Home,Active,488,1500000,Debit,NetBanking,Risky,medium,No
+CUST-10033,Jennifer,Young,,Home,Active,804,500000,,,Good,low,No
+CUST-11356,Tiffany,Campbell,Dalton-Garcia,Home,Active,598,5000000,Debit,NetBanking,Risky,medium,No
+CUST-10936,Lisa,Barnes,Curtis-Sanchez,Home,Active,784,1500000,Debit,UPI,Good,medium,No
+CUST-10908,Tanya,Spencer,Gardner PLC,Home,Active,423,5000000,Credit,NetBanking,Risky,medium,No
+CUST-11204,Timothy,Williams,"Harrell, Grimes and Armstrong",Home,Active,523,500000,Credit,NetBanking,Risky,low,No
+CUST-11412,William,King,Salinas-Gardner,Home,Active,754,500000,Debit,POS,Good,low,No
+CUST-10374,Johnathan,Briggs,,Home,Active,313,100000,,,Risky,low,No
+CUST-11407,Timothy,Davis,,Home,Active,327,500000,,,Risky,low,No
+CUST-11254,John,Byrd,"Martin, Swanson and Pollard",Home,Active,508,500000,Debit,UPI,Risky,low,No
+CUST-11291,Tina,Spencer,"Mcintosh, Bridges and Robinson",Home,Active,351,500000,Debit,POS,Risky,low,No
+CUST-10260,Kelsey,Johnson,Phillips-Baker,Home,Active,408,5000000,Credit,UPI,Risky,medium,No
+CUST-11098,Eduardo,Shelton,Collins-Crawford,Home,Active,621,1500000,Debit,UPI,Risky,medium,No
+CUST-10654,Jake,Martin,Charles-Le,Home,Active,422,1500000,Debit,ATM,Risky,medium,No
+CUST-10795,Heidi,Sparks,,Home,Active,679,1500000,,,Average,medium,No
+CUST-10930,Stephanie,Boyd,Weber and Sons,Home,Active,694,500000,Credit,POS,Average,low,No
+CUST-11060,Chad,Weeks,"Bennett, Hall and Jones",Home,Active,479,100000,Credit,UPI,Risky,low,No
+CUST-11397,Leah,Joseph,Paul-Spence,Home,Active,716,500000,Debit,POS,Average,low,No
+CUST-10900,Rhonda,Ibarra,"Rodriguez, Moore and Cox",Home,Active,785,500000,Debit,POS,Good,low,No
+CUST-10848,Susan,Shelton,Williams-Harrington,Home,Active,541,5000000,Credit,UPI,Risky,medium,No
+CUST-10872,Erin,Stout,Brewer Inc,Home,Active,367,5000000,Debit,UPI,Risky,medium,No
+CUST-10636,Laura,Andrews,"Peterson, Johnson and Allen",Home,Active,378,500000,Credit,NetBanking,Risky,low,No
+CUST-11389,Matthew,Martinez,"Solis, Wilson and White",Home,Active,744,5000000,Credit,NetBanking,Average,medium,No
+CUST-10269,Laura,Leach,Wolfe-Jackson,Home,Active,683,1500000,Credit,NetBanking,Average,medium,No
+CUST-10092,Joshua,Anderson,"Ball, Atkinson and Stevenson",Home,Active,723,1500000,Debit,NetBanking,Average,medium,No
+CUST-10905,Melissa,Gonzalez,"Hernandez, Ray and Gray",Home,Active,789,500000,Debit,UPI,Good,low,No
+CUST-10273,Ryan,Wilkins,Hernandez-Rice,Home,Active,641,500000,Debit,NetBanking,Risky,low,No
+CUST-10962,James,Russell,Foley-Marquez,Home,Active,594,100000,Credit,POS,Risky,low,No
+CUST-11400,Stacey,Oconnor,"Small, Campbell and Robinson",Home,Active,486,100000,Credit,NetBanking,Risky,low,No
+CUST-10427,Jessica,Rice,Davis Group,Home,Active,496,100000,Debit,NetBanking,Risky,low,No
+CUST-10387,Mary,Johnson,,Home,Active,578,5000000,,,Risky,medium,No
+CUST-10414,Travis,Pearson,"King, Wilson and Hunter",Home,Active,780,5000000,Debit,POS,Good,medium,No
+CUST-10926,Daniel,Smith,Randolph LLC,Home,Active,849,5000000,Credit,NetBanking,Good,medium,No
+CUST-10156,Cynthia,Douglas,,Home,Active,590,5000000,,,Risky,medium,No
+CUST-10200,Lindsey,Jones,,Home,Active,583,500000,,,Risky,low,No
+CUST-10449,Jennifer,Torres,,Home,Active,451,100000,,,Risky,low,No
+CUST-10755,Nicole,Mcneil,,Home,Active,346,500000,,,Risky,low,No
+CUST-10956,Debra,Jordan,,Home,Active,838,500000,,,Good,low,No
+CUST-10132,Victoria,Lara,,Home,Active,684,100000,,,Average,low,No
+CUST-11065,Zachary,Contreras,,Home,Active,767,500000,,,Good,low,No
+CUST-10792,Jessica,Webster,Kline Group,Home,Active,429,100000,Debit,POS,Risky,low,No
+CUST-11487,Justin,Pitts,,Home,Active,777,1500000,,,Good,medium,No
+CUST-11425,Lisa,Harrison,,Home,Active,461,500000,,,Risky,low,No
+CUST-11373,Chelsea,Rodriguez,,Home,Active,469,100000,,,Risky,low,No
+CUST-10538,Joshua,Jefferson,"Summers, Barrett and Hicks",Home,Active,512,1500000,Debit,POS,Risky,medium,No
+CUST-11172,Mark,Trevino,"Johnston, Hill and Coleman",Home,Active,410,5000000,Credit,ATM,Risky,medium,No
+CUST-11068,Eric,Daniels,Morgan and Sons,Home,Active,529,500000,Debit,POS,Risky,low,No
+CUST-10797,Megan,Gilbert,,Home,Active,427,100000,,,Risky,low,No
+CUST-10805,David,Scott,Sherman Group,Home,Active,703,500000,Debit,UPI,Average,low,No
+CUST-10333,John,Bryan,"Carter, Jensen and Graves",Home,Active,695,100000,Credit,NetBanking,Average,low,No
+CUST-10418,Joseph,Owens,,Home,Active,534,100000,,,Risky,low,No
+CUST-11297,Amanda,Rivera,Cole Group,Home,Active,434,5000000,Debit,UPI,Risky,medium,No
+CUST-10729,Rebecca,Brown,"Hoffman, Glenn and Moore",Home,Active,744,100000,Debit,NetBanking,Average,low,No
+CUST-10563,Cameron,White,Brown-Ortiz,Home,Active,688,1500000,Debit,POS,Average,medium,No
+CUST-11111,Rebecca,Bates,Taylor-Cook,Home,Active,438,5000000,Debit,POS,Risky,medium,No
+CUST-11272,Samuel,Beasley,Webb-Smith,Home,Active,745,5000000,Debit,ATM,Average,medium,No
+CUST-10837,Adrian,Robinson,,Home,Active,614,5000000,,,Risky,medium,No
+CUST-11106,Bobby,Gonzalez,Jones-Miller,Home,Active,385,500000,Credit,ATM,Risky,low,No
+CUST-10174,Amanda,Anderson,,Home,Active,326,100000,,,Risky,low,No
+CUST-11221,Robin,Hampton,,Home,Active,647,5000000,,,Risky,medium,No
+CUST-11048,Jessica,Combs,Donaldson Group,Home,Active,330,500000,Debit,UPI,Risky,low,No
+CUST-11370,Timothy,Noble,,Home,Active,594,500000,,,Risky,low,No
+CUST-10438,Omar,Douglas,,Home,Active,560,500000,,,Risky,low,No
+CUST-10256,Amy,Murphy,Faulkner-Sanchez,Home,Active,458,5000000,Debit,POS,Risky,medium,No
+CUST-10663,Jeffrey,Morris,Stephens Ltd,Home,Active,728,1500000,Debit,NetBanking,Average,medium,No
+CUST-10360,Sara,Macdonald,"Lane, Smith and Brown",Home,Active,455,500000,Credit,ATM,Risky,low,No
+CUST-10735,Emily,Hess,"Perkins, Delgado and Herman",Home,Active,633,5000000,Debit,NetBanking,Risky,medium,No
+CUST-10748,Maurice,Hardy,Frost PLC,Home,Active,437,100000,Debit,ATM,Risky,low,No
+CUST-10113,Tammy,Duke,,Home,Active,364,500000,,,Risky,low,No
+CUST-11125,Jennifer,Cook,"Cruz, Smith and Ryan",Home,Active,803,5000000,Debit,UPI,Good,medium,No
+CUST-10424,Jacqueline,Moran,,Home,Active,381,5000000,,,Risky,medium,No
+CUST-10898,Henry,Sanders,,Home,Active,726,500000,,,Average,low,No
+CUST-11127,Robert,Carlson,"Haney, Simmons and Wood",Home,Active,496,100000,Credit,ATM,Risky,low,No
+CUST-10724,Tammy,Thomas,Dillon Ltd,Home,Active,515,5000000,Credit,ATM,Risky,medium,No
+CUST-10700,Aaron,Hill,Miles-Sanchez,Home,Active,443,500000,Debit,POS,Risky,low,No
+CUST-10008,Megan,Singh,"Miller, Gilbert and Olson",Home,Active,374,1500000,Debit,POS,Risky,medium,No
+CUST-11264,Michael,Parker,,Home,Active,848,500000,,,Good,low,No
+CUST-10934,Jason,Lopez,Morris-Wang,Home,Active,696,500000,Credit,POS,Average,low,No
+CUST-10775,Brooke,Young,Jones-Hodges,Home,Active,607,5000000,Credit,NetBanking,Risky,medium,No
+CUST-10537,Brenda,Patterson,Morgan and Sons,Home,Active,834,500000,Debit,UPI,Good,low,No
+CUST-10148,Amanda,Robinson,Thornton Ltd,Home,Active,829,1500000,Credit,UPI,Good,medium,No
+CUST-11314,Alexandra,Chavez,,Home,Active,404,100000,,,Risky,low,No
+CUST-10237,Melissa,Morgan,Valdez PLC,Home,Active,482,1500000,Credit,ATM,Risky,medium,No
+CUST-10617,James,Moore,Newton PLC,Home,Active,762,5000000,Debit,POS,Good,medium,No
+CUST-10400,Johnathan,Schmidt,Davidson Ltd,Home,Active,417,1500000,Debit,NetBanking,Risky,medium,No
+CUST-11375,Tracy,Barnett,"Perez, Matthews and Horton",Home,Active,777,1500000,Debit,ATM,Good,medium,No
+CUST-11392,Samantha,Wilson,,Home,Active,732,1500000,,,Average,medium,No
+CUST-11335,Jeffrey,Sanders,Reeves-Brown,Home,Active,844,1500000,Credit,UPI,Good,medium,No
+CUST-10298,Jennifer,Roach,"Nguyen, Huff and Smith",Home,Active,674,5000000,Debit,POS,Average,medium,No
+CUST-10923,Christopher,Martin,Pearson Inc,Home,Active,423,500000,Debit,UPI,Risky,low,No
+CUST-11148,Dawn,Bradley,Mitchell-Glass,Home,Active,754,5000000,Debit,POS,Good,medium,No
+CUST-11478,Selena,Schmitt,Mclaughlin-Davis,Home,Active,463,500000,Credit,POS,Risky,low,No
+CUST-11241,Robert,Meyers,,Home,Active,846,1500000,,,Good,medium,No
+CUST-10810,Sonia,Miller,Walker PLC,Home,Active,422,100000,Debit,POS,Risky,low,No
+CUST-10252,Lawrence,Delacruz,Thompson-Brooks,Home,Active,725,5000000,Credit,NetBanking,Average,medium,No
+CUST-11194,Dawn,King,Adams-Solis,Home,Active,475,100000,Debit,ATM,Risky,low,No
+CUST-11093,Brenda,Clarke,,Home,Active,341,500000,,,Risky,low,No
+CUST-10802,Stephen,Calderon,Scott-Vaughan,Home,Active,595,100000,Debit,POS,Risky,low,No
+CUST-10228,Richard,Harrington,,Home,Active,778,5000000,,,Good,medium,No
+CUST-11188,John,Dawson,Tran-Bruce,Home,Active,300,100000,Credit,NetBanking,Risky,low,No
+CUST-10261,Mark,Gibbs,,Home,Active,569,100000,,,Risky,low,No
+CUST-10829,Caitlin,Smith,Sullivan LLC,Home,Active,446,100000,Credit,POS,Risky,low,No
+CUST-11302,Frank,Gilbert,,Home,Active,816,500000,,,Good,low,No
+CUST-11450,Keith,Roberts,,Home,Active,823,500000,,,Good,low,No
+CUST-11107,Faith,Gutierrez,,Home,Active,706,500000,,,Average,low,No
+CUST-10991,James,Molina,,Home,Active,668,1500000,,,Average,medium,No
+CUST-10062,Allen,Arroyo,"Fletcher, Ochoa and Nash",Home,Active,429,100000,Debit,NetBanking,Risky,low,No
+CUST-10204,Christopher,Cantrell,"Ford, Solis and Booth",Home,Active,461,100000,Credit,NetBanking,Risky,low,No
+CUST-11470,Mary,Hayes,"Smith, Patel and Henderson",Home,Active,664,500000,Credit,ATM,Average,low,No
+CUST-11180,Joshua,Sims,Taylor Group,Home,Active,680,100000,Debit,ATM,Average,low,No
+CUST-10142,Michael,Montes,Carney-Carter,Home,Active,641,500000,Credit,NetBanking,Risky,low,No
+CUST-11087,Wanda,Morgan,,Home,Active,710,1500000,,,Average,medium,No
+CUST-10622,Marc,Morales,,Home,Active,554,5000000,,,Risky,medium,No
+CUST-11216,Richard,Simmons,Holland Ltd,Home,Active,650,5000000,Debit,UPI,Unknown,medium,No
+CUST-11213,Edwin,Martinez,Wilson Group,Home,Active,406,100000,Credit,POS,Risky,low,No
+CUST-10731,Karen,Moreno,,Home,Active,628,500000,,,Risky,low,No
+CUST-11322,Renee,Ferguson,"Boone, Mullen and Holloway",Home,Active,454,100000,Credit,UPI,Risky,low,No
+CUST-10819,Rebecca,Day,,Home,Active,304,100000,,,Risky,low,No
+CUST-11047,Nicole,Russell,Arnold Group,Home,Active,605,100000,Debit,ATM,Risky,low,No
+CUST-10954,Linda,Davis,,Home,Active,349,1500000,,,Risky,medium,No
+CUST-10259,Eric,Donaldson,Potter-Little,Home,Active,478,500000,Credit,NetBanking,Risky,low,No
+CUST-11488,Sara,Garcia,,Home,Active,781,500000,,,Good,low,No
+CUST-10199,Marcus,Smith,"Jenkins, Jones and Jones",Home,Active,734,5000000,Debit,UPI,Average,medium,No
+CUST-10839,Stephanie,Roman,,Home,Active,847,500000,,,Good,low,No
+CUST-10320,Amy,Herman,Larson-Harris,Home,Active,393,1500000,Debit,ATM,Risky,medium,No
+CUST-10708,Kelsey,Pham,,Home,Active,357,100000,,,Risky,low,No
+CUST-10287,Frank,Jordan,"Wells, Mcmahon and Peterson",Home,Active,422,500000,Debit,POS,Risky,low,No
+CUST-10580,Kristy,Golden,Martin-Hall,Home,Active,653,500000,Debit,POS,Average,low,No
+CUST-10222,Jeffrey,Owens,Fitzgerald-Parsons,Home,Active,412,100000,Credit,NetBanking,Risky,low,No
+CUST-10383,Derek,Lucas,,Home,Active,479,100000,,,Risky,low,No
+CUST-10543,Ricky,Santiago,Pratt-Lee,Home,Active,393,500000,Debit,NetBanking,Risky,low,No
+CUST-10944,Patricia,Jones,,Home,Active,484,5000000,,,Risky,medium,No
+CUST-10370,Alan,Adams,"Nguyen, Jackson and Berry",Home,Active,731,500000,Debit,POS,Average,low,No
+CUST-11434,Toni,Graves,,Home,Active,462,1500000,,,Risky,medium,No
+CUST-11350,Chase,Brooks,Ross-Lopez,Home,Active,836,100000,Debit,NetBanking,Good,low,No
+CUST-10897,Bethany,Barnes,,Home,Active,480,1500000,,,Risky,medium,No
+CUST-10668,Justin,Newman,"Hill, Douglas and Mejia",Home,Active,496,500000,Debit,UPI,Risky,low,No
+CUST-11325,Luis,Fischer,"Butler, Williams and Brown",Home,Active,421,500000,Debit,POS,Risky,low,No
+CUST-11152,Omar,Evans,Fowler Group,Home,Active,410,500000,Credit,UPI,Risky,low,No
+CUST-10605,Catherine,Rodriguez,Snyder-Estrada,Home,Active,664,5000000,Debit,UPI,Average,medium,No
+CUST-10239,Heather,White,,Home,Active,367,5000000,,,Risky,medium,No
+CUST-10832,Bryan,Jimenez,Weber-Cobb,Home,Active,703,1500000,Credit,NetBanking,Average,medium,No
+CUST-11258,Angela,Miller,Gamble-Williams,Home,Active,612,500000,Debit,ATM,Risky,low,No
+CUST-10291,Nicole,Mcconnell,White PLC,Home,Active,722,100000,Credit,ATM,Average,low,No
+CUST-10589,Brittany,Gonzalez,,Home,Active,612,1500000,,,Risky,medium,No
+CUST-11388,Andrea,Perez,Rojas-Scott,Home,Active,733,100000,Debit,NetBanking,Average,low,No
+CUST-10757,Mary,Bennett,"Parker, Nash and Berger",Home,Active,829,5000000,Credit,ATM,Good,medium,No
+CUST-10600,Michelle,Hodges,,Home,Active,770,100000,,,Good,low,No
+CUST-11394,Christina,Graham,Clark-Gonzalez,Home,Active,599,100000,Credit,ATM,Risky,low,No
+CUST-10834,Brad,Friedman,Oliver Ltd,Home,Active,745,100000,Debit,ATM,Average,low,No
+CUST-11115,Juan,Morgan,Aguirre-Ryan,Home,Active,821,100000,Debit,POS,Good,low,No
+CUST-11145,Wendy,Lopez,"Spence, Mckenzie and Crane",Home,Active,758,5000000,Debit,NetBanking,Good,medium,No
+CUST-11382,Teresa,Gutierrez,"Flores, Johnson and Koch",Home,Active,646,100000,Debit,NetBanking,Risky,low,No
+CUST-11102,Connie,Bailey,,Home,Active,397,500000,,,Risky,low,No
+CUST-11285,Kyle,Reed,Thompson Group,Home,Active,559,500000,Credit,ATM,Risky,low,No
+CUST-10619,Michael,Dean,,Home,Active,320,1500000,,,Risky,medium,No
+CUST-11061,Monique,Vasquez,"George, Johnson and Miller",Home,Active,771,100000,Debit,POS,Good,low,No
+CUST-10398,James,Larson,,Home,Active,571,500000,,,Risky,low,No
+CUST-10660,Evelyn,Peterson,,Home,Active,664,1500000,,,Average,medium,No
+CUST-10594,Susan,Poole,Castillo-Porter,Home,Active,648,5000000,Debit,NetBanking,Risky,medium,No
+CUST-11352,Amy,Whitehead,Owens-Webb,Home,Active,761,1500000,Debit,UPI,Good,medium,No
+CUST-10525,Matthew,Wood,Guerra-Harris,Home,Active,385,1500000,Debit,UPI,Risky,medium,No
+CUST-11283,Thomas,Ramirez,Vaughan Group,Home,Active,420,100000,Debit,UPI,Risky,low,No
+CUST-10490,Brian,Morgan,,Home,Active,368,100000,,,Risky,low,No
+CUST-11226,Mark,Kirby,Ortiz Group,Home,Active,665,1500000,Credit,POS,Average,medium,No
+CUST-10105,Mark,Eaton,Young-Adams,Home,Active,369,5000000,Debit,POS,Risky,medium,No
+CUST-11429,Kristin,Davis,Freeman Ltd,Home,Active,731,1500000,Debit,NetBanking,Average,medium,No
+CUST-10139,Jay,Morrison,,Home,Active,683,5000000,,,Average,medium,No
+CUST-10635,John,Campbell,"Rios, Garcia and Garrison",Home,Active,720,1500000,Debit,UPI,Average,medium,No
+CUST-10766,Timothy,Caldwell,Stewart-Baker,Home,Active,420,5000000,Debit,UPI,Risky,medium,No
+CUST-10231,Jeremiah,Lopez,"Roberts, Fernandez and Hernandez",Home,Active,638,500000,Debit,NetBanking,Risky,low,No
+CUST-11343,Melvin,Pace,"Cooper, Garcia and Collins",Home,Active,440,500000,Debit,UPI,Risky,low,No
+CUST-10676,Joshua,Freeman,Alvarado-Mckay,Home,Active,560,100000,Credit,UPI,Risky,low,No
+CUST-11043,Jose,Wilson,Knight LLC,Home,Active,714,100000,Debit,UPI,Average,low,No
+CUST-11031,Karen,Wagner,Griffin Ltd,Home,Active,581,1500000,Credit,UPI,Risky,medium,No
+CUST-10521,Kevin,Campbell,Tyler Inc,Home,Active,529,100000,Credit,ATM,Risky,low,No
+CUST-10315,Anthony,Oconnell,"Harris, Rodriguez and Reed",Home,Active,504,500000,Debit,POS,Risky,low,No
+CUST-10410,Jade,Trevino,,Home,Active,349,5000000,,,Risky,medium,No
+CUST-10656,Bryan,Morrison,"Morgan, Mendez and Hamilton",Home,Active,630,500000,Debit,POS,Risky,low,No
+CUST-10441,Steven,Nunez,Lang and Sons,Home,Active,646,500000,Credit,NetBanking,Risky,low,No
+CUST-11409,Natalie,Harris,"Morgan, Reese and Johnson",Home,Active,576,1500000,Credit,ATM,Risky,medium,No
+CUST-10074,Christina,Fields,,Home,Active,773,1500000,,,Good,medium,No
+CUST-10099,Misty,Jackson,,Home,Active,395,1500000,,,Risky,medium,No
+CUST-11151,Marissa,Patterson,,Home,Active,358,5000000,,,Risky,medium,No
+CUST-10082,Erin,Lopez,Sparks Inc,Home,Active,572,100000,Debit,NetBanking,Risky,low,No
+CUST-10680,Nicole,Klein,Oliver-Anderson,Home,Active,785,100000,Credit,POS,Good,low,No
+CUST-10974,Barry,Ruiz,,Home,Active,630,500000,,,Risky,low,No
+CUST-10075,Joanne,Greene,"Snow, Hale and Mcdonald",Home,Active,790,5000000,Debit,NetBanking,Good,medium,No
+CUST-11336,Tracey,Lewis,Terrell-Melendez,Home,Active,496,500000,Debit,ATM,Risky,low,No
+CUST-10150,Amanda,Mccullough,"Thomas, Merritt and Stokes",Home,Active,825,1500000,Debit,ATM,Good,medium,No
+CUST-10412,Jennifer,Hayes,"Thompson, Riddle and Hodge",Home,Active,451,1500000,Debit,UPI,Risky,medium,No
+CUST-11417,Johnathan,Thomas,Barry-Briggs,Home,Active,686,5000000,Debit,UPI,Average,medium,No
+CUST-10158,Andrea,Martinez,"Williams, Greene and Roach",Home,Active,421,1500000,Debit,POS,Risky,medium,No
+CUST-10631,April,Lee,"Lewis, Hurley and Adams",Home,Active,678,100000,Debit,UPI,Average,low,No
+CUST-10243,James,Zimmerman,,Home,Active,355,500000,,,Risky,low,No
+CUST-11026,Daniel,Santana,,Home,Active,813,500000,,,Good,low,No
+CUST-11499,David,Williams,,Home,Active,645,5000000,,,Risky,medium,No
+CUST-11300,Rebecca,Taylor,,Home,Active,840,100000,,,Good,low,No
+CUST-11214,John,Edwards,Farmer-Davis,Home,Active,810,1500000,Debit,POS,Good,medium,No
+CUST-11232,Brian,Rowe,,Home,Active,707,1500000,,,Average,medium,No
+CUST-10670,Amy,Norman,,Home,Active,775,1500000,,,Good,medium,No
+CUST-11196,April,Taylor,,Home,Active,692,500000,,,Average,low,No
+CUST-11459,Melissa,Garcia,Hill PLC,Home,Active,435,5000000,Debit,POS,Risky,medium,No
+CUST-10818,Brandi,Fitzgerald,"Mcdonald, Reynolds and Martin",Home,Active,492,500000,Debit,POS,Risky,low,No
+CUST-10017,Elizabeth,Vasquez,Snyder LLC,Home,Active,612,500000,Debit,UPI,Risky,low,No
+CUST-10021,Renee,Lamb,"Harris, Hartman and Kelley",Home,Active,481,1500000,Debit,POS,Risky,medium,No
+CUST-10389,Miguel,Anderson,,Home,Active,848,500000,,,Good,low,No
+CUST-10270,Charles,Maldonado,,Home,Active,483,100000,,,Risky,low,No
+CUST-10404,Adam,Carlson,Aguilar-Kline,Home,Active,384,1500000,Credit,ATM,Risky,medium,No
+CUST-10592,Victor,Johnson,,Home,Active,693,5000000,,,Average,medium,No
+CUST-11306,Tiffany,Williams,Herrera Group,Home,Active,812,500000,Debit,POS,Good,low,No
+CUST-10575,Robert,Hughes,Benitez and Sons,Home,Active,422,100000,Debit,UPI,Risky,low,No
+CUST-10108,Teresa,Pitts,Lopez Ltd,Home,Active,650,1500000,Debit,NetBanking,Unknown,medium,No
+CUST-10129,Michelle,Barrera,Hernandez Group,Home,Active,603,1500000,Credit,POS,Risky,medium,No
+CUST-10861,Jessica,Simpson,,Home,Active,402,100000,,,Risky,low,No
+CUST-11445,Glen,Schultz,Martin and Sons,Home,Active,751,5000000,Credit,UPI,Good,medium,No
+CUST-10346,Nancy,Parker,"Leonard, Smith and Hayden",Home,Active,432,500000,Credit,NetBanking,Risky,low,No
