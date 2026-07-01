@@ -1,0 +1,155 @@
+loan_type,transaction_type,channel,last_name,merchant_name,status,loan_status,customer_id,first_name,credit_score,principal_amount,amount,credit_score_bucket,principal_bucket,loan_customer_transactions
+Home,Debit,ATM,J***,J***,Success,Active,CUST-10538,J***,512,1500000,1501.92,Risky,medium bucket,Standard
+Home,Credit,UPI,P***,G*** a*** S***,Flagged,Active,CUST-10414,T***,780,5000000,10146.84,Good,medium bucket,Standard
+Home,Credit,POS,B***,W*** a*** S***,Success,Active,CUST-10930,S***,694,500000,23186.49,Average,low bucket,Standard
+Home,Debit,ATM,M***,C***,Success,Active,CUST-10654,J***,422,1500000,44844.84,Risky,medium bucket,Standard
+Home,Debit,POS,W***,B***,Failed,Active,CUST-10563,C***,688,1500000,42076.64,Average,medium bucket,Standard
+Home,Credit,NetBanking,S***,R*** L***,Failed,Active,CUST-10926,D***,849,5000000,4978.46,Good,medium bucket,Standard
+Home,Debit,NetBanking,A***,B*** A*** a*** S***,Success,Active,CUST-10092,J***,723,1500000,4655.55,Average,medium bucket,Standard
+Home,Debit,ATM,L***,F***,Failed,Active,CUST-10126,D***,343,100000,11324.66,Risky,low bucket,Standard
+Home,Credit,NetBanking,W***,C***,Success,Active,CUST-10313,J***,633,100000,32593.75,Risky,low bucket,Standard
+Home,Debit,POS,L***,L*** R*** a*** B***,Success,Active,CUST-11025,L***,497,5000000,42948.45,Risky,medium bucket,Standard
+Home,Debit,UPI,S***,B*** I***,Success,Active,CUST-10872,E***,367,5000000,25687.69,Risky,medium bucket,Standard
+Home,Debit,UPI,G***,H*** R*** a*** G***,Success,Active,CUST-10905,M***,789,500000,38635.06,Good,low bucket,Standard
+Home,Credit,NetBanking,F***,D*** P***,Success,Active,CUST-11295,A***,826,5000000,17316.02,Good,medium bucket,Standard
+Home,Credit,ATM,W***,P*** P***,Failed,Active,CUST-10273,R***,641,500000,23159.24,Risky,low bucket,Standard
+Home,Debit,UPI,B***,M*** S*** a*** P***,Success,Active,CUST-11254,J***,508,500000,47988.14,Risky,low bucket,Standard
+Home,Credit,NetBanking,O***,S*** C*** a*** R***,Failed,Active,CUST-11400,S***,486,100000,13998.95,Risky,low bucket,Standard
+Home,Credit,POS,R***,I*** R*** a*** G***,Success,Active,CUST-11297,A***,434,5000000,42135.95,Risky,medium bucket,Standard
+Home,Debit,POS,B***,T***,Success,Active,CUST-11111,R***,438,5000000,25521.42,Risky,medium bucket,Standard
+Home,Debit,NetBanking,F***,S*** W*** a*** M***,Success,Active,CUST-11184,K***,488,1500000,45317.97,Risky,medium bucket,Standard
+Home,Debit,POS,S***,M*** B*** a*** R***,Success,Active,CUST-11291,T***,351,500000,9665.73,Risky,low bucket,Standard
+Home,Credit,UPI,W***,B*** H*** a*** J***,Failed,Active,CUST-11060,C***,479,100000,2070.35,Risky,low bucket,Standard
+Home,Debit,NetBanking,B***,H*** G*** a*** M***,Success,Active,CUST-10729,R***,744,100000,7015.14,Average,low bucket,Standard
+Home,Credit,NetBanking,A***,P*** J*** a*** A***,Success,Active,CUST-10636,L***,378,500000,24990.59,Risky,low bucket,Standard
+Home,Credit,ATM,T***,J*** H*** a*** C***,Success,Active,CUST-11172,M***,410,5000000,30660.76,Risky,medium bucket,Standard
+Home,Debit,POS,D***,M*** a*** S***,Success,Active,CUST-11068,E***,529,500000,39640.98,Risky,low bucket,Standard
+Home,Debit,POS,T***,S***,Success,Active,CUST-10964,A***,685,100000,24872.42,Average,low bucket,Standard
+Home,Credit,POS,H***,A*** a*** S***,Success,Active,CUST-11170,K***,693,1500000,35184.34,Average,medium bucket,Standard
+Home,Debit,POS,J***,G***,Success,Active,CUST-11397,L***,716,500000,34054.49,Average,low bucket,Standard
+Home,Debit,UPI,W***,B*** D*** a*** H***,Failed,Active,CUST-10792,J***,429,100000,24466.28,Risky,low bucket,Standard
+Home,Debit,ATM,B***,W***,Success,Active,CUST-11272,S***,745,5000000,47800.3,Average,medium bucket,Standard
+Home,Credit,UPI,S***,O*** a*** S***,Success,Active,CUST-11348,K***,555,100000,18414.97,Risky,low bucket,Standard
+Home,Debit,POS,C***,F***,Failed,Active,CUST-11356,T***,598,5000000,13230.88,Risky,medium bucket,Standard
+Home,Credit,UPI,J***,P***,Success,Active,CUST-10260,K***,408,5000000,31519.28,Risky,medium bucket,Standard
+Home,Debit,UPI,B***,C***,Success,Active,CUST-10936,L***,784,1500000,33331.87,Good,medium bucket,Standard
+Home,Credit,ATM,G***,J***,Success,Active,CUST-11106,B***,385,500000,41263.89,Risky,low bucket,Standard
+Home,Debit,UPI,S***,T*** M*** a*** R***,Success,Active,CUST-10908,T***,423,5000000,19302.46,Risky,medium bucket,Standard
+Home,Debit,NetBanking,S***,M*** P***,Success,Active,CUST-10531,R***,437,100000,22009.81,Risky,low bucket,Standard
+Home,Credit,NetBanking,W***,H*** G*** a*** A***,Success,Active,CUST-11204,T***,523,500000,7831.77,Risky,low bucket,Standard
+Home,Credit,NetBanking,M***,S*** W*** a*** W***,Failed,Active,CUST-11389,M***,744,5000000,25244.87,Average,medium bucket,Standard
+Home,Debit,ATM,S***,P*** a*** S***,Success,Active,CUST-10805,D***,703,500000,19796.06,Average,low bucket,Standard
+Home,Debit,POS,R***,W*** R*** a*** H***,Flagged,Active,CUST-10427,J***,496,100000,23507.57,Risky,low bucket,Standard
+Home,Debit,POS,K***,S***,Success,Active,CUST-11412,W***,754,500000,37657.61,Good,low bucket,Standard
+Home,Debit,POS,G***,H*** D*** a*** B***,Flagged,Active,CUST-10351,V***,480,5000000,49675.24,Risky,medium bucket,Standard
+Home,Debit,POS,I***,R*** M*** a*** C***,Success,Active,CUST-10900,R***,785,500000,12676.17,Good,low bucket,Standard
+Home,Debit,UPI,S***,O*** S*** a*** R***,Failed,Active,CUST-11280,R***,591,5000000,1546.8,Risky,medium bucket,Standard
+Home,Debit,UPI,S***,C***,Failed,Active,CUST-11098,E***,621,1500000,1339.93,Risky,medium bucket,Standard
+Home,Credit,UPI,S***,W***,Success,Active,CUST-10848,S***,541,5000000,5635.97,Risky,medium bucket,Standard
+Home,Debit,UPI,B***,A***,Flagged,Active,CUST-10333,J***,695,100000,43604.63,Average,low bucket,Standard
+Home,Credit,NetBanking,L***,W***,Success,Active,CUST-10269,L***,683,1500000,18268.03,Average,medium bucket,Standard
+Home,Credit,POS,R***,F***,Flagged,Active,CUST-10962,J***,594,100000,23835.69,Risky,low bucket,Standard
+Home,Credit,ATM,T***,D*** L***,Success,Active,CUST-10724,T***,515,5000000,9722.85,Risky,medium bucket,Standard
+Home,Credit,UPI,S***,R***,Success,Active,CUST-11335,J***,844,1500000,29571.22,Good,medium bucket,Standard
+Home,Debit,ATM,R***,A*** G***,Failed,Active,CUST-11047,N***,605,100000,21940.6,Risky,low bucket,Standard
+Home,Credit,UPI,P***,C*** a*** S***,Success,Active,CUST-10537,B***,834,500000,3370.05,Good,low bucket,Standard
+Home,Debit,POS,R***,N*** H*** a*** S***,Success,Active,CUST-10298,J***,674,5000000,6463.79,Average,medium bucket,Standard
+Home,Credit,POS,M***,Y*** L***,Flagged,Active,CUST-10663,J***,728,1500000,36565.13,Average,medium bucket,Standard
+Home,Debit,NetBanking,H***,P*** D*** a*** H***,Flagged,Active,CUST-10735,E***,633,5000000,12731.59,Risky,medium bucket,Standard
+Home,Credit,ATM,M***,S*** I***,Success,Active,CUST-10810,S***,422,100000,47953.28,Risky,low bucket,Standard
+Home,Credit,NetBanking,M***,C***,Flagged,Active,CUST-10142,M***,641,500000,46676.1,Risky,low bucket,Standard
+Home,Debit,UPI,C***,D*** G***,Success,Active,CUST-11048,J***,330,500000,42161.6,Risky,low bucket,Standard
+Home,Debit,POS,A***,N*** J*** a*** B***,Success,Active,CUST-10370,A***,731,500000,13623.48,Average,low bucket,Standard
+Home,Debit,ATM,H***,F*** P***,Success,Active,CUST-10748,M***,437,100000,7032.9,Risky,low bucket,Standard
+Home,Debit,POS,H***,M***,Success,Active,CUST-10700,A***,443,500000,31633.9,Risky,low bucket,Standard
+Home,Debit,NetBanking,D***,M*** I***,Failed,Active,CUST-10252,L***,725,5000000,8405.24,Average,medium bucket,Standard
+Home,Debit,POS,K***,G*** G***,Failed,Active,CUST-11194,D***,475,100000,35039.95,Risky,low bucket,Standard
+Home,Debit,UPI,C***,C*** S*** a*** R***,Success,Active,CUST-11125,J***,803,5000000,47798.24,Good,medium bucket,Standard
+Home,Debit,UPI,H***,F*** L***,Success,Active,CUST-11470,M***,664,500000,26247.07,Average,low bucket,Standard
+Home,Credit,UPI,R***,T*** L***,Success,Active,CUST-10148,A***,829,1500000,47408.06,Good,medium bucket,Standard
+Home,Debit,POS,C***,S***,Success,Active,CUST-10802,S***,595,100000,44766.93,Risky,low bucket,Standard
+Home,Credit,NetBanking,D***,P***,Failed,Active,CUST-10259,E***,478,500000,13066.86,Risky,low bucket,Standard
+Home,Debit,UPI,S***,H*** L***,Success,Active,CUST-11216,R***,650,5000000,39768.58,Average,medium bucket,Standard
+Home,Credit,UPI,E***,F*** G***,Success,Active,CUST-11152,O***,410,500000,10214.06,Risky,low bucket,Standard
+Home,Debit,NetBanking,J***,J***,Failed,Active,CUST-10287,F***,422,500000,24290.45,Risky,low bucket,Standard
+Home,Credit,NetBanking,D***,T***,Success,Active,CUST-11188,J***,300,100000,18899.94,Risky,low bucket,Standard
+Home,Credit,POS,M***,W*** G***,Flagged,Active,CUST-11213,E***,406,100000,19875.03,Risky,low bucket,Standard
+Home,Credit,ATM,M***,V*** P***,Flagged,Active,CUST-10237,M***,482,1500000,3862,Risky,medium bucket,Standard
+Home,Debit,POS,S***,M*** G*** a*** O***,Success,Active,CUST-10008,M***,374,1500000,23714.88,Risky,medium bucket,Standard
+Home,Credit,UPI,M***,W***,Success,Active,CUST-10617,J***,762,5000000,18300.44,Good,medium bucket,Standard
+Home,Debit,NetBanking,B***,R***,Success,Active,CUST-11350,C***,836,100000,28191.16,Good,low bucket,Standard
+Home,Debit,UPI,M***,P*** I***,Success,Active,CUST-10923,C***,423,500000,25675.05,Risky,low bucket,Standard
+Home,Debit,ATM,G***,R*** B*** a*** L***,Success,Active,CUST-10580,K***,653,500000,21207.22,Average,low bucket,Standard
+Home,Credit,NetBanking,O***,F***,Success,Active,CUST-10222,J***,412,100000,24219.09,Risky,low bucket,Standard
+Home,Credit,ATM,S***,L*** P***,Success,Active,CUST-11180,J***,680,100000,37869.18,Average,low bucket,Standard
+Home,Debit,UPI,R***,S***,Flagged,Active,CUST-10605,C***,664,5000000,37423.57,Average,medium bucket,Standard
+Home,Credit,ATM,M***,L*** S*** a*** B***,Success,Active,CUST-10360,S***,455,500000,8984.13,Risky,low bucket,Standard
+Home,Debit,NetBanking,S***,D*** L***,Success,Active,CUST-10400,J***,417,1500000,29022.82,Risky,medium bucket,Standard
+Home,Debit,UPI,S***,B*** C*** a*** F***,Failed,Active,CUST-10199,M***,734,5000000,42413.89,Average,medium bucket,Standard
+Home,Debit,ATM,B***,P*** M*** a*** H***,Flagged,Active,CUST-11375,T***,777,1500000,26811.16,Good,medium bucket,Standard
+Home,Debit,POS,F***,G*** a*** S***,Success,Active,CUST-11322,R***,454,100000,11457.97,Risky,low bucket,Standard
+Home,Credit,POS,S***,S*** L***,Success,Active,CUST-10829,C***,446,100000,25011.79,Risky,low bucket,Standard
+Home,Credit,ATM,C***,H*** S*** a*** W***,Success,Active,CUST-11127,R***,496,100000,14009.54,Risky,low bucket,Standard
+Home,Credit,POS,L***,M***,Success,Active,CUST-10934,J***,696,500000,29828.09,Average,low bucket,Standard
+Home,Debit,ATM,H***,L***,Flagged,Active,CUST-10320,A***,393,1500000,19896.82,Risky,medium bucket,Standard
+Home,Credit,ATM,S***,O*** W*** a*** P***,Failed,Active,CUST-10543,R***,393,500000,10303.6,Risky,low bucket,Standard
+Home,Debit,UPI,N***,H*** D*** a*** M***,Flagged,Active,CUST-10668,J***,496,500000,14600.58,Risky,low bucket,Standard
+Home,Debit,ATM,J***,C***,Success,Active,CUST-10832,B***,703,1500000,27921.59,Average,medium bucket,Standard
+Home,Debit,POS,B***,M***,Success,Active,CUST-11148,D***,754,5000000,20913.61,Good,medium bucket,Standard
+Home,Credit,POS,S***,M***,Success,Active,CUST-11478,S***,463,500000,18512.77,Risky,low bucket,Standard
+Home,Credit,UPI,M***,M*** L***,Success,Active,CUST-10256,A***,458,5000000,37379.62,Risky,medium bucket,Standard
+Home,Debit,NetBanking,A***,F*** O*** a*** N***,Success,Active,CUST-10062,A***,429,100000,24334.67,Risky,low bucket,Standard
+Home,Debit,POS,F***,B*** W*** a*** B***,Failed,Active,CUST-11325,L***,421,500000,154.26,Risky,low bucket,Standard
+Home,Debit,ATM,M***,G***,Failed,Active,CUST-11258,A***,612,500000,34204.77,Risky,low bucket,Standard
+Home,Debit,ATM,Y***,L*** R*** a*** D***,Success,Active,CUST-10775,B***,607,5000000,18032.2,Risky,medium bucket,Standard
+Home,Credit,NetBanking,C***,F*** S*** a*** B***,Success,Active,CUST-10204,C***,461,100000,44607.11,Risky,low bucket,Standard
+Home,Credit,ATM,R***,T*** G***,Success,Active,CUST-11285,K***,559,500000,978.32,Risky,low bucket,Standard
+Home,Debit,UPI,L***,R*** J*** a*** G***,Success,Active,CUST-10082,E***,572,100000,7394.98,Risky,low bucket,Standard
+Home,Debit,UPI,W***,K*** L***,Success,Active,CUST-11043,J***,714,100000,23433.19,Average,low bucket,Standard
+Home,Credit,UPI,W***,G*** L***,Flagged,Active,CUST-11031,K***,581,1500000,20510.03,Risky,medium bucket,Standard
+Home,Debit,UPI,P***,C*** G*** a*** C***,Success,Active,CUST-11343,M***,440,500000,40873.79,Risky,low bucket,Standard
+Home,Credit,ATM,C***,T*** I***,Failed,Active,CUST-10521,K***,529,100000,27661.95,Risky,low bucket,Standard
+Home,Credit,ATM,M***,W*** P***,Success,Active,CUST-10291,N***,722,100000,4888.29,Average,low bucket,Standard
+Home,Credit,UPI,P***,D***,Success,Active,CUST-10594,S***,648,5000000,24252.28,Risky,medium bucket,Standard
+Home,Debit,POS,W***,H*** G***,Success,Active,CUST-11306,T***,812,500000,4122.02,Good,low bucket,Standard
+Home,Debit,ATM,M***,T*** M*** a*** S***,Success,Active,CUST-10150,A***,825,1500000,15870.25,Good,medium bucket,Standard
+Home,Debit,POS,E***,M*** B*** a*** R***,Flagged,Active,CUST-10105,M***,369,5000000,3662.34,Risky,medium bucket,Standard
+Home,Debit,UPI,H***,B*** a*** S***,Success,Active,CUST-10575,R***,422,100000,19264.4,Risky,low bucket,Standard
+Home,Debit,NetBanking,G***,S*** H*** a*** M***,Success,Active,CUST-10075,J***,790,5000000,18799.59,Good,medium bucket,Standard
+Home,Debit,UPI,W***,O***,Success,Active,CUST-11352,A***,761,1500000,2606,Good,medium bucket,Standard
+Home,Debit,NetBanking,P***,L*** L***,Flagged,Active,CUST-10108,T***,650,1500000,29251.82,Average,medium bucket,Standard
+Home,Credit,UPI,F***,A***,Success,Active,CUST-10676,J***,560,100000,14458.24,Risky,low bucket,Standard
+Home,Debit,POS,O***,H*** R*** a*** R***,Success,Active,CUST-10315,A***,504,500000,22237.43,Risky,low bucket,Standard
+Home,Credit,ATM,G***,C***,Success,Active,CUST-11394,C***,599,100000,41952.76,Risky,low bucket,Standard
+Home,Debit,ATM,L***,T***,Failed,Active,CUST-11336,T***,496,500000,28776.65,Risky,low bucket,Standard
+Home,Debit,ATM,F***,O*** L***,Flagged,Active,CUST-10834,B***,745,100000,304.1,Average,low bucket,Standard
+Home,Debit,NetBanking,P***,R***,Flagged,Active,CUST-11388,A***,733,100000,39761.56,Average,low bucket,Standard
+Home,Debit,POS,M***,M*** M*** a*** H***,Success,Active,CUST-10656,B***,630,500000,35228.05,Risky,low bucket,Standard
+Home,Credit,POS,B***,N***,Success,Active,CUST-10129,M***,603,1500000,19369.35,Risky,medium bucket,Standard
+Home,Debit,NetBanking,M***,J*** S*** a*** E***,Success,Active,CUST-11115,J***,821,100000,9663.53,Good,low bucket,Standard
+Home,Debit,NetBanking,L***,S*** M*** a*** C***,Success,Active,CUST-11145,W***,758,5000000,7953.82,Good,medium bucket,Standard
+Home,Credit,NetBanking,W***,W*** S*** a*** J***,Success,Active,CUST-10525,M***,385,1500000,41564.15,Risky,medium bucket,Standard
+Home,Debit,NetBanking,C***,B*** N*** a*** L***,Success,Active,CUST-10635,J***,720,1500000,28499.38,Average,medium bucket,Standard
+Home,Debit,POS,G***,H*** P***,Flagged,Active,CUST-11459,M***,435,5000000,22363.55,Risky,medium bucket,Standard
+Home,Debit,UPI,R***,V*** G***,Success,Active,CUST-11283,T***,420,100000,7412.57,Risky,low bucket,Standard
+Home,Debit,POS,V***,G*** J*** a*** M***,Failed,Active,CUST-11061,M***,771,100000,47540.87,Good,low bucket,Standard
+Home,Debit,UPI,L***,L*** H*** a*** A***,Success,Active,CUST-10631,A***,678,100000,14028.93,Average,low bucket,Standard
+Home,Credit,NetBanking,N***,L*** a*** S***,Success,Active,CUST-10441,S***,646,500000,8425.88,Risky,low bucket,Standard
+Home,Credit,ATM,H***,M*** R*** a*** J***,Success,Active,CUST-11409,N***,576,1500000,41805.08,Risky,medium bucket,Standard
+Home,Debit,POS,F***,M*** R*** a*** M***,Flagged,Active,CUST-10818,B***,492,500000,30827.93,Risky,low bucket,Standard
+Home,Credit,UPI,S***,M*** a*** S***,Failed,Active,CUST-11445,G***,751,5000000,26165.75,Good,medium bucket,Standard
+Home,Debit,UPI,H***,T*** R*** a*** H***,Failed,Active,CUST-10412,J***,451,1500000,4450.03,Risky,medium bucket,Standard
+Home,Debit,UPI,V***,S*** L***,Flagged,Active,CUST-10017,E***,612,500000,43714.5,Risky,low bucket,Standard
+Home,Debit,UPI,C***,S***,Failed,Active,CUST-10766,T***,420,5000000,5607.06,Risky,medium bucket,Standard
+Home,Debit,UPI,T***,B***,Success,Active,CUST-11417,J***,686,5000000,40071.36,Average,medium bucket,Standard
+Home,Debit,POS,M***,W*** G*** a*** R***,Success,Active,CUST-10158,A***,421,1500000,39608.58,Risky,medium bucket,Standard
+Home,Credit,POS,K***,O***,Flagged,Active,CUST-10680,N***,785,100000,9403.85,Good,low bucket,Standard
+Home,Credit,ATM,B***,P*** N*** a*** B***,Success,Active,CUST-10757,M***,829,5000000,2470.6,Good,medium bucket,Standard
+Home,Debit,NetBanking,L***,R*** F*** a*** H***,Flagged,Active,CUST-10231,J***,638,500000,18779,Risky,low bucket,Standard
+Home,Credit,ATM,C***,A***,Success,Active,CUST-10404,A***,384,1500000,12017.78,Risky,medium bucket,Standard
+Home,Credit,NetBanking,P***,L*** S*** a*** H***,Success,Active,CUST-10346,N***,432,500000,32900.94,Risky,low bucket,Standard
+Home,Debit,POS,E***,F***,Success,Active,CUST-11214,J***,810,1500000,26328.48,Good,medium bucket,Standard
+Home,Debit,NetBanking,G***,F*** J*** a*** K***,Success,Active,CUST-11382,T***,646,100000,9207.18,Risky,low bucket,Standard
+Home,Debit,POS,L***,H*** H*** a*** K***,Failed,Active,CUST-10021,R***,481,1500000,31461.16,Risky,medium bucket,Standard
+Home,Debit,POS,K***,F*** P*** a*** H***,Flagged,Active,CUST-11226,M***,665,1500000,22073.62,Average,medium bucket,Standard
+Home,Credit,UPI,D***,G***,Failed,Active,CUST-11429,K***,731,1500000,41930.72,Average,medium bucket,Standard
