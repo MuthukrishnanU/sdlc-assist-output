@@ -1,0 +1,9 @@
+year_month,channel,total_transaction_count,total_amount,unique_customer_count,category
+2026-04,ATM,87,2052320.27,86,
+2026-04,NetBanking,77,1811868.79,77,
+2026-04,POS,102,2527967.48,96,Progressive Channel
+2026-04,UPI,105,2673276.26,98,Progressive Channel
+2026-05,ATM,272,6664757.89,249,Progressive Channel
+2026-05,NetBanking,285,7322040.81,257,Progressive Channel
+2026-05,POS,292,7178268.56,267,Progressive Channel
+2026-05,UPI,280,6923798.2,254,Progressive Channel
